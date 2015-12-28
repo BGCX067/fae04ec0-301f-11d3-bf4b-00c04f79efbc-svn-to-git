@@ -1,0 +1,297 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>phongnguyen</Author>
+  <LastAuthor>Shawn Phelps</LastAuthor>
+  <Created>2012-08-23T04:16:41Z</Created>
+  <LastSaved>2012-09-05T18:24:16Z</LastSaved>
+  <Version>14.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>7740</WindowHeight>
+  <WindowWidth>18195</WindowWidth>
+  <WindowTopX>0</WindowTopX>
+  <WindowTopY>105</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62">
+   <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Sheet1">
+  <Table ss:ExpandedColumnCount="5" ss:ExpandedRowCount="42" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Column ss:AutoFitWidth="0" ss:Width="96.75"/>
+   <Column ss:AutoFitWidth="0" ss:Width="181.5"/>
+   <Column ss:AutoFitWidth="0" ss:Width="96"/>
+   <Column ss:AutoFitWidth="0" ss:Width="143.25"/>
+   <Column ss:AutoFitWidth="0" ss:Width="289.5"/>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Entry</Data></Cell>
+    <Cell><Data ss:Type="String">Category</Data></Cell>
+    <Cell><Data ss:Type="String">Category</Data></Cell>
+    <Cell><Data ss:Type="String">Question</Data></Cell>
+    <Cell><Data ss:Type="String">Answer</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">New Customer</Data></Cell>
+    <Cell><Data ss:Type="String">Licensing Options</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">My organization plans to upgrade 5 or more existing PCs to Windows 8 through Volume Licensing.</Data></Cell>
+    <Cell><Data ss:Type="String">If your existing PCs have &lt;a href=&quot;http://download.microsoft.com/download/5/c/7/5c727885-ec15-4920-818b-4d140ec6c38a/Windows8_QOS.pdf&quot;&gt;Qualifying Operating Systems&lt;/a&gt;, you can purchase the Windows 8 Pro Upgrade licenses from a &lt;a href=&quot;http://www.microsoft.com/licensing/how-to-buy/default.aspx&quot;&gt;Microsoft reseller&lt;/a&gt; through a &lt;a href=&quot;http://www.microsoft.com/licensing/licensing-options/for-organizations.aspx#tab=1&quot;&gt;Microsoft Volume Licensing program&lt;/a&gt;.  Depending on the Volume Licensing program you select, &lt;a href=&quot;http://www.microsoft.com/licensing/software-assurance/default.aspx&quot;&gt;Software Assurance&lt;/a&gt; is either included or optional. </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Volume Licensing: Pricing and Part Numbers</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">What is the pricing for Windows 8, and how do I purchase through Volume Licensing?</Data></Cell>
+    <Cell><Data ss:Type="String">For organizations with five or more PCs, Microsoft offers significant cost savings on Windows 8 Pro Upgrade licenses through Microsoft Volume Licensing. To learn more about pricing through Volume Licensing see the &lt;a href=&quot;http://www.microsoft.com/licensing/mla/default.aspx&quot;&gt;Microsoft License Advisor&lt;/a&gt; or contact a &lt;a href=&quot;http://www.microsoft.com/licensing/how-to-buy/default.aspx&quot;&gt;Microsoft reseller&lt;/a&gt; for more details.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="4"><Data ss:Type="String">What are the Windows 8 part numbers through Volume Licensing?</Data></Cell>
+    <Cell><Data ss:Type="String">To learn more about part numbers and pricing contact a &lt;a href=&quot;http://www.microsoft.com/licensing/how-to-buy/default.aspx&quot;&gt;Microsoft reseller&lt;/a&gt;.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Installation, Upgrades, Activation</Data></Cell>
+    <Cell><Data ss:Type="String">Installation</Data></Cell>
+    <Cell><Data ss:Type="String">What are the system requirements for Windows 8?</Data></Cell>
+    <Cell><Data ss:Type="String">Please refer to the Windows 8 &lt;a href=&quot;http://download.microsoft.com/download/5/c/7/5c727885-ec15-4920-818b-4d140ec6c38a/System_requirements_v2.pdf&quot;&gt;system requirements&lt;/a&gt;.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="4"><Data ss:Type="String">Where can I find assistance with Deployment Planning?</Data></Cell>
+    <Cell><Data ss:Type="String">Online resources for deployment planning are available via &lt;a href=&quot;http://technet.microsoft.com/windows/hh974336.aspx&quot;&gt;TechNet&lt;/a&gt;.&#160; </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="4"><Data ss:Type="String">Where can I find assistance with installation?</Data></Cell>
+    <Cell><Data ss:Type="String">Online resources for installation guidance can be found via &lt;a href=&quot;http://technet.microsoft.com/en-us/library/hh824978&quot;&gt;TechNet&lt;/a&gt;.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3"><Data ss:Type="String">Upgrades</Data></Cell>
+    <Cell><Data ss:Type="String">My organization plans to upgrade 5 or more existing PCs to Windows 8 through Volume Licensing.</Data></Cell>
+    <Cell><Data ss:Type="String">If your existing PCs have &lt;a href=&quot;http://download.microsoft.com/download/5/c/7/5c727885-ec15-4920-818b-4d140ec6c38a/Windows8_QOS.pdf&quot;&gt;Qualifying Operating Systems&lt;/a&gt;, you can purchase the Windows 8 Pro Upgrade licenses from a &lt;a href=&quot;http://www.microsoft.com/licensing/how-to-buy/default.aspx&quot;&gt;Microsoft reseller&lt;/a&gt; through a &lt;a href=&quot;http://www.microsoft.com/licensing/licensing-options/for-organizations.aspx#tab=1&quot;&gt;Microsoft Volume Licensing program&lt;/a&gt;.  Depending on the Volume Licensing program you select, &lt;a href=&quot;http://www.microsoft.com/licensing/software-assurance/default.aspx&quot;&gt;Software Assurance&lt;/a&gt; is either included or optional.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3"><Data ss:Type="String">Activation</Data></Cell>
+    <Cell><Data ss:Type="String">How do I activate Windows on devices purchased through Volume Licensing?</Data></Cell>
+    <Cell><Data ss:Type="String">When acquired through Volume Licensing, Windows 8 can be activated through Key Management Service (KMS), Active Directory-based activation, or Multiple Activation Key (MAK) activation. To learn more about  Volume Activation, visit the  &lt;a href=&quot;http://technet.microsoft.com/en-us/library/hh831612&quot;&gt;Volume Activation Overview&lt;/a&gt;.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3"><Data ss:Type="String">Product Keys</Data></Cell>
+    <Cell><Data ss:Type="String">How do I obtain product keys in Volume Licensing?</Data></Cell>
+    <Cell><Data ss:Type="String">Product Keys for Volume Licensing are provided through the &lt;a href=&quot;https://www.microsoft.com/licensing/servicecenter/default.aspx&quot;&gt;Volume Licensing Service Center&lt;/a&gt; or the Microsoft Volume License Key department (888-352-7140). For software obtained outside of Microsoft Volume Licensing, Product Keys will come with the software.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="4"><Data ss:Type="String">How do I obtain replacement Volume Licensing product keys if I lost my key or it does not work?</Data></Cell>
+    <Cell><Data ss:Type="String">For Volume License customers who need to replace a Product Key because it is lost or does not work, please call the Microsoft Volume License Activation Center (888) 352-7140. </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Software Assurance</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">What are the benefits of Software Assurance?</Data></Cell>
+    <Cell><Data ss:Type="String">Customers with &lt;a href=&quot;http://download.microsoft.com/download/5/c/7/5c727885-ec15-4920-818b-4d140ec6c38a/SA_benefits_for_Windows.pdf&quot;&gt;Software Assurance&lt;/a&gt; for Windows receive unique benefits. For general Software Assurance benefit information, please visit the &lt;a href=&quot;http://www.microsoft.com/licensing/software-assurance/default.aspx&quot;&gt;Microsoft Software Assurance site&lt;/a&gt;.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="4"><Data ss:Type="String">How do I purchase Software Assurance?</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;a href=&quot;http://www.microsoft.com/licensing/software-assurance/default.aspx&quot;&gt;Software Assurance&lt;/a&gt; is an optional addition to any Windows 8 Pro upgrade license purchased through Volume Licensing.  When you purchase Windows 8 Pro preinstalled on a new device, you can add Software Assurance through a &lt;a href=&quot;http://www.microsoft.com/licensing/licensing-options/for-organizations.aspx#tab=1&quot;&gt;Microsoft Volume Licensing program&lt;/a&gt; within 90 of the device purchase date.  Contact a &lt;a href=&quot;http://www.microsoft.com/licensing/how-to-buy/default.aspx&quot;&gt;Microsoft reseller&lt;/a&gt; for details and pricing.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="4"><Data ss:Type="String">How do I activate Software Assurance benefits? </Data></Cell>
+    <Cell><Data ss:Type="String">Software Assurance benefits can be activated through the &lt;a href=&quot;https://www.microsoft.com/licensing/servicecenter/default.aspx&quot;&gt;Volume Licensing Service Center&lt;/a&gt;. For additional information, see the Software Assurance FAQ located on the &lt;a href=&quot;https://www.microsoft.com/licensing/servicecenter/Help/FAQDetails.aspx?id=179&quot;&gt;VLSC home page&lt;/a&gt;.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Existing Customer</Data></Cell>
+    <Cell><Data ss:Type="String">Licensing Information</Data></Cell>
+    <Cell><Data ss:Type="String">My company has existing devices with  prior versions of Windows</Data></Cell>
+    <Cell><Data ss:Type="String">My company has devices covered under Software Assurance.  What licensing is required to run Windows 8?</Data></Cell>
+    <Cell><Data ss:Type="String">Through the New Version Rights benefit of Software Assurance, you are licensed to upgrade any devices covered by active Software Assurance for Windows to Windows 8 Enterprise.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="4"><Data ss:Type="String">My company has devices that are not covered under Software Assurance.  What licensing is required to run Windows 8?</Data></Cell>
+    <Cell><Data ss:Type="String">For existing PCs with &lt;a href=&quot;http://download.microsoft.com/download/5/c/7/5c727885-ec15-4920-818b-4d140ec6c38a/Windows8_QOS.pdf&quot;&gt;Qualifying Operating Systems&lt;/a&gt;, Windows 8 Pro Upgrade licenses may be purchased from a &lt;a href=&quot;http://www.microsoft.com/licensing/how-to-buy/default.aspx&quot;&gt;Microsoft reseller&lt;/a&gt; through a &lt;a href=&quot;http://www.microsoft.com/licensing/licensing-options/for-organizations.aspx#tab=1&quot;&gt;Microsoft Volume Licensing program&lt;/a&gt;.  Depending on the Volume Licensing program you select, &lt;a href=&quot;http://www.microsoft.com/licensing/software-assurance/default.aspx&quot;&gt;Software Assurance&lt;/a&gt; is either included or optional. </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Volume Licensing: Pricing and Part Numbers</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">What is the pricing for Windows 8, and how do I purchase through Volume Licensing?</Data></Cell>
+    <Cell><Data ss:Type="String">For organizations with five or more PCs, Microsoft offers significant cost savings on Windows 8 Pro Upgrade licenses through Microsoft Volume Licensing. To learn more about pricing through Volume Licensing, see the &lt;a href=&quot;http://www.microsoft.com/licensing/mla/default.aspx&quot;&gt;Microsoft License Advisor&lt;/a&gt; or contact a &lt;a href=&quot;http://www.microsoft.com/licensing/how-to-buy/default.aspx&quot;&gt;Microsoft reseller&lt;/a&gt; for further details.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="4"><Data ss:Type="String">What are the Windows 8 part numbers through Volume Licensing?</Data></Cell>
+    <Cell><Data ss:Type="String">To learn more about part numbers and pricing, contact a &lt;a href=&quot;http://www.microsoft.com/licensing/how-to-buy/default.aspx&quot;&gt;Microsoft reseller&lt;/a&gt;.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Software Assurance</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">What are the benefits of Software Assurance?</Data></Cell>
+    <Cell><Data ss:Type="String">Customers with &lt;a href=&quot;http://download.microsoft.com/download/5/c/7/5c727885-ec15-4920-818b-4d140ec6c38a/SA_benefits_for_Windows.pdf&quot;&gt;Software Assurance&lt;/a&gt; for Windows receive unique benefits. For general Software Assurance benefit information, please visit the &lt;a href=&quot;http://www.microsoft.com/licensing/software-assurance/default.aspx&quot;&gt;Microsoft Software Assurance site&lt;/a&gt;.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="4"><Data ss:Type="String">How do I purchase Software Assurance?</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;a href=&quot;http://www.microsoft.com/licensing/software-assurance/default.aspx&quot;&gt;Software Assurance&lt;/a&gt; is an optional addition to any Windows 8 Pro upgrade license purchased through Volume Licensing.  When you purchase Windows 8 Pro preinstalled on a new device, you can add Software Assurance through a &lt;a href=&quot;http://www.microsoft.com/licensing/licensing-options/for-organizations.aspx#tab=1&quot;&gt;Microsoft Volume Licensing program&lt;/a&gt; within 90 of the device purchase date.  Contact a &lt;a href=&quot;http://www.microsoft.com/licensing/how-to-buy/default.aspx&quot;&gt;Microsoft reseller&lt;/a&gt; for details and pricing.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="4"><Data ss:Type="String">How do I activate Software Assurance benefits? </Data></Cell>
+    <Cell><Data ss:Type="String">Software Assurance benefits can be activated through the &lt;a href=&quot;https://www.microsoft.com/licensing/servicecenter/default.aspx&quot;&gt;Volume Licensing Service Center&lt;/a&gt;. For additional information, see the Software Assurance FAQ located on the &lt;a href=&quot;https://www.microsoft.com/licensing/servicecenter/Help/FAQDetails.aspx?id=179&quot;&gt;VLSC home page&lt;/a&gt;.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Fulfillment through Volume Licensing</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Where can I download Windows 8?</Data></Cell>
+    <Cell><Data ss:Type="String">Volume Licensing customers can download Windows 8 through the &lt;a href=&quot;https://www.microsoft.com/licensing/servicecenter/default.aspx&quot;&gt;Volume Licensing Service Center&lt;/a&gt;.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="4"><Data ss:Type="String">Where can I get new or replacement copies of Windows 8 disc media (DVD)?</Data></Cell>
+    <Cell><Data ss:Type="String">Windows 8 disc media can be obtained through the Media hotline for Open License customers (1-800-336-0098). For Enterprise Agreement, Select, Select Plus, and Enrollment for Education Solutions, media can be obtained through the associated LAR. </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Installation, Upgrades, Activation</Data></Cell>
+    <Cell><Data ss:Type="String">Installation</Data></Cell>
+    <Cell><Data ss:Type="String">What are the system requirements for Windows 8?</Data></Cell>
+    <Cell><Data ss:Type="String">Please refer to the Windows 8 &lt;a href=&quot;http://download.microsoft.com/download/5/c/7/5c727885-ec15-4920-818b-4d140ec6c38a/System_requirements_v2.pdf&quot;&gt;System Requirements&lt;/a&gt;.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="4"><Data ss:Type="String">Where can I find assistance with Deployment Planning?</Data></Cell>
+    <Cell><Data ss:Type="String">Online resources for deployment planning are available via &lt;a href=&quot;http://technet.microsoft.com/windows/hh974336.aspx&quot;&gt;TechNet&lt;/a&gt;.&#160; </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="4"><Data ss:Type="String">Where can I find assistance with installation?</Data></Cell>
+    <Cell><Data ss:Type="String">Online resources for installation guidance can be found via &lt;a href=&quot;http://technet.microsoft.com/en-us/library/hh824978&quot;&gt;TechNet&lt;/a&gt;.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3"><Data ss:Type="String">Upgrades</Data></Cell>
+    <Cell><Data ss:Type="String">How do I upgrade devices that are covered under Software Assurance through Volume Licensing?</Data></Cell>
+    <Cell><Data ss:Type="String">You are licensed to upgrade any devices covered by active Software Assurance for Windows to Windows 8 Enterprise through the New Version Rights benefit of Software Assurance.  Software Assurance customers can download Windows 8 through the &lt;a href=&quot;https://www.microsoft.com/licensing/servicecenter/default.aspx&quot;&gt;Volume Licensing Service Center&lt;/a&gt;.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="4"><Data ss:Type="String">How do I upgrade devices that are not covered under Software Assurance through Volume Licensing?</Data></Cell>
+    <Cell><Data ss:Type="String">For existing PCs  with &lt;a href=&quot;http://download.microsoft.com/download/5/c/7/5c727885-ec15-4920-818b-4d140ec6c38a/Windows8_QOS.pdf&quot;&gt;Qualifying Operating Systems&lt;/a&gt;, you can purchase the Windows 8 Pro Upgrade licenses from a &lt;a href=&quot;http://www.microsoft.com/licensing/how-to-buy/default.aspx&quot;&gt;Microsoft reseller&lt;/a&gt; through a &lt;a href=&quot;http://www.microsoft.com/licensing/licensing-options/for-organizations.aspx#tab=1&quot;&gt;Microsoft Volume Licensing program&lt;/a&gt;.  Depending on the Volume Licensing program you select, &lt;a href=&quot;http://www.microsoft.com/licensing/software-assurance/default.aspx&quot;&gt;Software Assurance&lt;/a&gt; is either included or optional. </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3"><Data ss:Type="String">Activation</Data></Cell>
+    <Cell><Data ss:Type="String">How do I activate Windows on devices purchased through Volume Licensing?</Data></Cell>
+    <Cell><Data ss:Type="String">When acquired through Volume Licensing, Windows 8 can be activated through Key Management Service (KMS), Active Directory-based activation, or Multiple Activation Key (MAK) activation. To learn more about  Volume Activation visit the  &lt;a href=&quot;http://technet.microsoft.com/en-us/library/hh831612&quot;&gt;Volume Activation Overview&lt;/a&gt;.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3"><Data ss:Type="String">Product Keys</Data></Cell>
+    <Cell><Data ss:Type="String">How do I obtain product keys in Volume Licensing?</Data></Cell>
+    <Cell><Data ss:Type="String">Product Keys for Volume Licensing are provided through the &lt;a href=&quot;https://www.microsoft.com/licensing/servicecenter/default.aspx&quot;&gt;Volume Licensing Service Center&lt;/a&gt; or the Microsoft Volume License Key department (888-352-7140). For software obtained outside of Microsoft Volume Licensing, Product Keys will come with the software.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="4"><Data ss:Type="String">How do I obtain replacement Volume Licensing product keys if I lost my key or it does not work?</Data></Cell>
+    <Cell><Data ss:Type="String">For Volume License customers who need to replace a Product Key because it is lost or does not work, please call the Microsoft Volume License Activation Center (888-352-7140). </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Benefits of Volume Licensing for Windows 8</Data></Cell>
+    <Cell><Data ss:Type="String">Cost Savings</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Volume Licensing is the most cost effective way for commercial customers to purchase Windows upgrades.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Access to Exclusive Offerings</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Volume Licensing provides access to offerings not available through other channels - for example, Windows 8 Enterprise Edition and the Microsoft Desktop Optimization Pack (MDOP), which are not available through OEM or FPP channels.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Flexibility</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Volume Licensing customers receive more flexible use rights than those that come with an OEM or FPP license (e.g. downgrade rights to prior versions).  When Software Assurance for Windows is added, customers have even greater flexibility for how they use Windows, such as virtualization and Windows To Go rights. </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Downgrade and Reimaging Rights</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">If I need to use a prior version of Windows, what are my options?</Data></Cell>
+    <Cell><Data ss:Type="String">For Windows 8 Pro licenses acquired through an OEM, downgrade rights are limited to the equivalent edition for the two prior versions. For Windows licenses acquired through Volume Licensing, downgrade rights provide the greatest flexibility with downgrades to any prior version.&lt;br/&gt;&lt;br/&gt;Refer to the &lt;a href=&quot;http://www.microsoft.com/licensing/about-licensing/briefs/downgrade-rights.aspx&quot;&gt;Downgrade Rights Volume Licensing Brief&lt;/a&gt; for further information.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="4"><Data ss:Type="String">I need to deploy a custom image of Windows across my organization. What are my options?</Data></Cell>
+    <Cell><Data ss:Type="String">To learn more about custom images, reference the &lt;a href=&quot;http://www.microsoft.com/licensing/about-licensing/briefs/reimaging.aspx&quot;&gt;Reimaging Rights Volume Licensing Brief&lt;/a&gt;. </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Flexibility with Software Assurance (SA)</Data></Cell>
+    <Cell><Data ss:Type="String">My employees need to access Windows at home or on the road</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">My employee is the primary user of a device licensed under Software Assurance for Windows or a Windows Virtual Desktop Access (VDA) subscription. </Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">The user can access a corporate Windows desktop from a personally owned device either through &lt;a href=&quot;http://www.microsoft.com/en-us/windows/enterprise/products-and-technologies/virtualization/vdi.aspx&quot;&gt;Virtual Desktop Infrastructure&lt;/a&gt; or by running &lt;a href=&quot;http://technet.microsoft.com/en-us/library/hh831833.aspx&quot;&gt;Windows To Go&lt;/a&gt; on the device at no additional cost through the Roaming Use Rights benefit of Software Assurance/Windows VDA subscription. &lt;br/&gt;&lt;br/&gt;To learn more about flexible work options, please reference the &lt;a href=&quot;http://download.microsoft.com/download/9/4/3/9439A928-A0D1-44C2-A099-26A59AE0543B/Windows_8_Licensing_Guide.pdf&quot;&gt;Windows 8 Licensing Guide&lt;/a&gt;.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="4"><Data ss:Type="String">My employee is not the primary user of a device licensed under Software Assurance for Windows or a Windows Virtual Desktop Access (VDA) subscription.</Data></Cell>
+    <Cell><Data ss:Type="String">First, license the user's primary device under Software Assurance for Windows or with a Windows VDA subscription license. The user can then access a corporate Windows desktop from a personally owned device either through the &lt;a href=&quot;http://www.microsoft.com/en-us/windows/enterprise/products-and-technologies/virtualization/vdi.aspx&quot;&gt;Virtual Desktop Infrastructure&lt;/a&gt; or via &lt;a href=&quot;http://technet.microsoft.com/en-us/library/hh831833.aspx&quot;&gt;Windows To Go&lt;/a&gt; on the device through the Roaming Use Rights benefit of Software Assurance/Windows VDA subscription.&lt;br/&gt;&lt;br/&gt;To learn more about flexible work options, please reference the &lt;a href=&quot;http://download.microsoft.com/download/9/4/3/9439A928-A0D1-44C2-A099-26A59AE0543B/Windows_8_Licensing_Guide.pdf&quot;&gt;Windows 8 Licensing Guide&lt;/a&gt;.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">My employees need to access Windows across multiple devices</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">First, license the user's primary device under Software Assurance for Windows or with a Windows VDA subscription license. To license the companion device for accessing a corporate desktop through &lt;a href=&quot;http://www.microsoft.com/en-us/windows/enterprise/products-and-technologies/virtualization/vdi.aspx&quot;&gt;Virtual Desktop Infrastructure&lt;/a&gt; or via &lt;a href=&quot;http://technet.microsoft.com/en-us/library/hh831833.aspx&quot;&gt;Windows To Go&lt;/a&gt;, the appropriate license depends on the device type. For a corporate owned Windows RT companion device, no additional license is needed. For an x86 device, license the device with Software Assurance for Windows or Windows VDA Subscription. For other devices, attach the Windows Companion Subscription License (CSL).&lt;br/&gt;&lt;br/&gt;To learn more about flexible work options, please reference the &lt;a href=&quot;http://download.microsoft.com/download/9/4/3/9439A928-A0D1-44C2-A099-26A59AE0543B/Windows_8_Licensing_Guide.pdf&quot;&gt;Windows 8 Licensing Guide&lt;/a&gt;.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">My employees bring their own devices to work</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">My employee is the primary user of a device that is licensed with Software Assurance for Windows or a Windows Virtual Desktop Access (VDA) subscription.&#160;He/she also wants to bring a personal device into work and use it to access a Windows desktop image through VDI or run Windows To Go. </Data></Cell>
+    <Cell><Data ss:Type="String">Attach the Windows Companion Subscription License (CSL) to the underlying Software Assurance or Windows VDA license. As the primary user of the licensed device with Software Assurance or Windows VDA subscription, with the attached Windows CSL, that employee can access a corporate desktop at work through &lt;a href=&quot;http://www.microsoft.com/en-us/windows/enterprise/products-and-technologies/virtualization/vdi.aspx&quot;&gt;Virtual Desktop Infrastructure&lt;/a&gt; or by running &lt;a href=&quot;http://technet.microsoft.com/en-us/library/hh831833.aspx&quot;&gt;Windows To Go&lt;/a&gt; on up to four companion devices.&lt;br/&gt;&lt;br/&gt;To learn more about flexible work options, please reference the &lt;a href=&quot;http://download.microsoft.com/download/9/4/3/9439A928-A0D1-44C2-A099-26A59AE0543B/Windows_8_Licensing_Guide.pdf&quot;&gt;Windows 8 Licensing Guide&lt;/a&gt;.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="4"><Data ss:Type="String">My employee is not the primary user of a device licensed with Software Assurance for Windows or a Windows Virtual Desktop Access (VDA) subscription.</Data></Cell>
+    <Cell><Data ss:Type="String">License the employee’s personally-owned device with Software Assurance for Windows, if the device is already licensed with a &lt;a href=&quot;http://download.microsoft.com/download/5/c/7/5c727885-ec15-4920-818b-4d140ec6c38a/Windows8_QOS.docx&quot;&gt;Qualifying Operating System&lt;/a&gt; or Windows Virtual Desktop Access (VDA) subscription.&lt;br/&gt;&lt;br/&gt;For additional devices, add the Windows Companion Subscription License, which allows the primary user of the device licensed with Software Assurance for Windows or Windows VDA subscription to access a corporate desktop at work through &lt;a href=&quot;http://www.microsoft.com/en-us/windows/enterprise/products-and-technologies/virtualization/vdi.aspx&quot;&gt;Virtual Desktop Infrastructure&lt;/a&gt; or via &lt;a href=&quot;http://technet.microsoft.com/en-us/library/hh831833.aspx&quot;&gt;Windows To Go&lt;/a&gt; on up to four companion devices.&lt;br/&gt;&lt;br/&gt;To learn more about flexible work options, please reference the &lt;a href=&quot;http://download.microsoft.com/download/9/4/3/9439A928-A0D1-44C2-A099-26A59AE0543B/Windows_8_Licensing_Guide.pdf&quot;&gt;Windows 8 Licensing Guide&lt;/a&gt;.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">What are the key benefits of Software Assurance?</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Customers with &lt;a href=&quot;http://download.microsoft.com/download/5/c/7/5c727885-ec15-4920-818b-4d140ec6c38a/SA_benefits_for_Windows.pdf&quot;&gt;Software Assurance for Windows&lt;/a&gt; receive unique benefits. For general Software Assurance benefit information, please visit the &lt;a href=&quot;http://www.microsoft.com/licensing/software-assurance/default.aspx&quot;&gt;Microsoft Software Assurance site&lt;/a&gt;.</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Unsynced/>
+   <Zoom>84</Zoom>
+   <Selected/>
+   <TopRowVisible>15</TopRowVisible>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>36</ActiveRow>
+     <ActiveCol>4</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="Sheet2">
+  <Table ss:ExpandedColumnCount="1" ss:ExpandedRowCount="1" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Row ss:AutoFitHeight="0"/>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Unsynced/>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="Sheet3">
+  <Table ss:ExpandedColumnCount="1" ss:ExpandedRowCount="1" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Row ss:AutoFitHeight="0"/>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Unsynced/>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

@@ -1,0 +1,241 @@
+div.LCA-guide
+{
+	font-family:"Segoe UI", "Trebuchet MS", Verdana, sans-serif !important;
+	width:565px;
+	height:377px;
+	overflow:hidden;
+	background:#fff url("../images/background.jpg");
+	border: none;
+	-moz-border-radius: 6px;
+	border-radius: 6px;
+	color:#000 !important;
+	line-height:17px !important;
+	text-align:left;
+	list-style:none;
+	list-style-type:none;
+	opacity:0;
+	position:relative;
+}
+
+div.LCA-guide div#LCA-logo
+{
+	width:235px;
+	height:62px;
+	position:absolute;
+	left:20px;
+	top:27px;
+	background:transparent url("../images/logo.png") no-repeat;
+	cursor:pointer;
+}
+
+div.LCA-guide a
+{
+    text-decoration:none;
+}
+
+div.LCA-guide a:hover
+{
+    text-decoration:underline;
+}
+
+div.LCA-guide div#instructions
+{
+	position:absolute;
+	left:26px;
+	top:160px;
+	font-size:15px;
+	opacity:0;
+	font-weight:normal;
+
+}
+
+div.LCA-guide div#instructions div#instr-title
+{
+	max-width:200px;
+}
+
+
+div.LCA-guide div#instructions div#instr-step
+{
+	
+}
+
+div.LCA-guide div#answer
+{
+	width:305px;
+	position:absolute;
+	left:236px;
+	top:20px;
+	font-size:11px;
+	font-weight: normal;
+	opacity:.7;
+}
+
+div.LCA-guide div#answer div#copy a
+{
+    line-height:17px;
+}
+
+div.LCA-guide div#answer div#copy
+{
+	background-color: #c4deef;
+	background: -moz-linear-gradient(100% 100% 90deg, #c4deef, #fcfcfe);
+	background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#c4deef), to(#fcfcfe));
+	background: -webkit-linear-gradient(#fcfcfe, #c4deef);
+	background: -o-linear-gradient(#c4deef, #fcfcfe);
+	border:1px solid #a8b1b8;
+	border-radius:6px;
+	-webkit-border-radius:6px;
+	-moz-border-radius:6px;
+	-webkit-box-shadow: #666 0px 2px 3px;
+	-moz-box-shadow: #666 0px 2px 3px;
+	box-shadow: #666 0px 2px 3px;
+	position:relative;
+	z-index:1;
+	behavior: url(http://www.microsoft.com/global/licensing/RenderingAssets/SC2012/js/PIE.htc);
+}
+
+div.LCA-guide div#answer div#copy div#copy-text
+{
+	margin:10px;
+	max-height:179px;
+	line-height:17px !important;
+	overflow-y:auto;
+	overflow-x:hidden;
+}
+
+div.LCA-guide div#util
+{
+	position:absolute;
+	left:444px;
+	top:330px;
+}
+
+div.LCA-guide div#util a#util-print,
+div.LCA-guide div#util a#util-email
+{
+	float:left;
+	margin-left:10px;
+	display:inline-block;
+	cursor:pointer;
+}
+
+div.LCA-guide div#util a#util-print
+{
+	background:transparent url("../images/lca-print.png") no-repeat;
+	width:28px;
+	height:34px;
+}
+
+div.LCA-guide div#util a#util-email
+{
+	background:transparent url("../images/lca-email.png") no-repeat;
+	width:37px;
+	height:32px;
+	margin-top:5px;
+}
+
+div.LCA-guide div#answer div#help
+{
+	position:relative;
+	z-index:0;
+}
+
+div.LCA-guide div#answer div#help div#help-text
+{
+	position:absolute;
+	top:-10px;
+	left:0;
+	padding:15px 10px 10px 10px;
+	border-radius:6px;
+	-webkit-border-radius:6px;
+	-moz-border-radius:6px;
+	background:#5478a8;
+	opacity:.7;
+	color:#fff;
+	line-height:17px !important;
+	behavior: url(http://www.microsoft.com/global/licensing/RenderingAssets/SC2012/js/PIE.htc);
+	width:285px\9; /* IE 8 and below */
+	*width:285px; /* IE 7 and below */
+}
+
+div.LCA-guide div#answer div#help a
+{
+	color:#ead11c;
+}
+
+div.LCA-guide div#answer div#help a#yes
+{
+    padding-left: 5px;
+}
+
+div.LCA-guide div.buttons
+{
+	position:absolute;
+	left:240px;
+	top:0px;
+	opacity:0;
+}
+
+div.LCA-guide div.buttons ul li
+{
+	padding-bottom:0px;
+	position:relative;
+}
+
+div.LCA-guide div.buttons ul li span
+{
+	display:inline-block;
+	position:relative;
+	width:286px;
+	height:67px;
+	background:transparent url("../images/button_off.png") no-repeat;
+	cursor:pointer;
+	padding:0px 15px;
+}
+
+div.LCA-guide div.buttons ul li a
+{
+	position:absolute;
+	max-width:286px;
+	font-size:12px;
+	line-height:17px;
+	color: #000000;
+	text-decoration:none;
+    	text-align:center;
+}
+
+div.LCA-guide div.buttons ul li span:hover
+{
+	background:transparent url("../images/button_on.png") no-repeat;
+}
+
+div.LCA-guide div.buttons ul li span:hover a, div.LCA-guide div.buttons ul li span:hover a:hover
+{
+    	text-decoration:none;
+}
+
+div.LCA-guide a#back
+{
+	background:url("../images/back.png") no-repeat;
+	display:block;
+	width:67px;
+	height:23px;
+	cursor:pointer;
+    	margin-top: 5px;
+}
+
+div.LCA-guide a#restart
+{
+	background:url("../images/restart.png") no-repeat;
+	display:block;
+	width:101px;
+	height:23px;
+	cursor:pointer;
+    	margin-top: 5px;
+}
+
+div.LCA-guide div#LCA-print
+{
+	display:none;
+}

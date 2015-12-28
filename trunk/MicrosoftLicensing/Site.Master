@@ -1,0 +1,35 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="SiteMaster" %>
+
+<%@ Register Src="UserControls/Header.ascx" TagName="Header" TagPrefix="x" %>
+<%@ Register Src="UserControls/Footer.ascx" TagName="Footer" TagPrefix="x" %>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+    <title>Microsoft Volume Licensing</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE9; IE=10" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link rel="shortcut icon" href="//www.microsoft.com/favicon.ico?v2" />
+    <script src="/Scripts/jquery-1.9.0.min.js" type="text/javascript"></script>
+    <script src="/Scripts/main.js" type="text/javascript"></script>
+    <link rel="Stylesheet" type="text/css" href="/Styles/main.css" />
+    <link rel="Stylesheet" type="text/css" href="/licensing/shared/templates/master/oneMscomMaster/oneMscomMaster.css" />
+    <link rel="Stylesheet" type="text/css" href="/licensing/shared/templates/Master/oneMscomMaster/oneMscomComponents.css" />
+    <link rel="Stylesheet" type="text/css" href="/licensing/shared/templates/components/oneMscomGenericControl/oneMscomListLayout.css" />
+    <link rel="stylesheet" type="text/css" href="/licensing/shared/templates/components/oneMscomBlade/oneMscomBlade.css" />
+    <link rel="stylesheet" type="text/css" href="/licensing/shared/templates/components/oneMscomFooter/onemscomfooter.css" />
+    <link rel="Stylesheet" type="text/css" href="/licensing/shared/templates/components/oneMscomHero/oneMscomHero.css" />
+    <link rel="stylesheet" type="text/css" href="/licensing/shared/templates/components/onemscomsearch/onemscomsearch.css" />
+    <link rel="stylesheet" type="text/css" href="/licensing/shared/templates/components/oneMscomNav/oneMscomNav.css" />
+    <link rel="stylesheet" type="text/css" href="/global/licensing/RenderingAssets/mt_styles.css" />
+</head>
+<body>
+    <x:Header ID="Header" runat="server" />
+    <div class="stage">
+        <div class="stage-content">
+            <asp:ContentPlaceHolder ID="MainContent" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </div>
+    <x:Footer ID="Footer" runat="server" />
+</body>
+</html>

@@ -1,0 +1,54 @@
+﻿.first-list-item h4{color:#009900}
+.grove-18 { float:left;width:185px; }
+.grove-17 { float:left;width:425px; }
+.select-text a {font-family:Verdana, Arial, sans-serif !important;}
+.select-text{margin:0;}
+#filter-panel h3, #filter-results h3, div.filter-results h3 { margin-bottom:7px; }
+
+/*** filter panel styles ***/
+#filter-panel { background:url(../../PublishingImages/backgrounds/filter/middle-bkg.jpg) repeat-y right top; margin:0px 15px 0 -17px; }
+#filter-panel .filter-panel-top { background:url(../../PublishingImages/backgrounds/filter/top-bkg.jpg) no-repeat right top; }
+#filter-panel .filter-panel-bottom { background:url(../../PublishingImages/backgrounds/filter/bottom-bkg.jpg) no-repeat right bottom; margin-bottom:-18px; padding:0 5px 0 10px; }
+#filter-panel div ul.data-list { margin-bottom:15px; }
+#filter-panel div ul.list-border-right { margin:5px 0 5px 10px; }
+#filter-panel div ul.list-border-right li { float:left; margin-right:5px; padding-right:5px; }
+#filter-panel div ul.list-border-right li.last-list-item { margin-right:0px; padding-right:0; }
+#filter-panel div ul.list-border-right li p { line-height:1em; margin:0 !important; }
+
+#filter-panel ul li div div ul { margin:0 0 15px 10px; }
+#filter-panel ul li div div ul li { clear:left; margin-bottom:5px; }
+#filter-panel ul li.last-list-item div ul, #filter-panel ul li.last-list-item div ul li.last-list-item { margin-bottom:0; }
+
+#filter-panel input { float:left; margin:0 3px 3px 3px; }
+#filter-panel label { display:block; line-height:1.5em; margin-left:20px;margin-top:0; }
+
+
+/*** filter results styles ***/
+#filter-results, div.filter-results { margin-top:0px; }
+#filter-results .first-list-item .filter-result-item, div.filter-results .first-list-item .filter-result-item { padding-top:0; }
+
+#filter-results .filter-result-item, div.filter-results .filter-result-item, ul.filter-result-items li { background:url(../../PublishingImages/backgrounds/global/divider.gif) no-repeat center bottom; padding:15px 0; }
+#filter-results .filter-result-item p, div.filter-results .filter-result-item p { margin-bottom:10px; }
+
+#filter-results .filter-result-item a.expand-link, div.filter-results .filter-result-item a.expand-link { background:none; padding:0; margin-left:5px; }
+#filter-results .filter-result-item div.item-header h4, div.filter-results .filter-result-item div.item-header h4 { float:left; font-size:.8em; line-height:1.15em; margin:0 5px 0 0; padding-bottom:5px; width:212px; }
+div.filter-results ul.filter-result-items h4 { font-size:.8em; line-height:1.15em; margin:0 5px 0 0; }
+div.filter-results ul.filter-result-items p { line-height:1.35em; margin:0 5px 5px 0; }
+#filter-results .filter-result-item div.item-header-short h4, div.filter-results .filter-result-item div.item-header-short h4 { float:none; width:auto; }
+#filter-results .filter-result-item div.item-header p, div.filter-results .filter-result-item div.item-header p { float:left; line-height:1.35em; margin:0 3px 5px 0; padding-bottom:4px; }
+
+#filter-results .filter-result-item div.item-header p.brief-date {width:95px; float:left; line-height:1.35em; margin:0 0px 5px 0; padding-bottom:4px;}
+
+#filter-results .filter-result-item div.item-header .doc,
+#filter-results .filter-result-item div.item-header .docx,
+#filter-results .filter-result-item div.item-header .pdf,
+#filter-results .filter-result-item div.item-header .xps,
+div.filter-results .filter-result-item div.item-header .doc,
+div.filter-results .filter-result-item div.item-header .docx,
+div.filter-results .filter-result-item div.item-header .pdf,
+div.filter-results .filter-result-item div.item-header .xps
+{ background-position:0 1px; margin-left:7px; padding-left:19px; }
+
+.filter-subcat { display:block; }
+
+.pagination { margin-top:25px; }

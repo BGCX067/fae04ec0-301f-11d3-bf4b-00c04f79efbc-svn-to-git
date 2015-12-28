@@ -1,0 +1,433 @@
+﻿.mstHdrV3
+{
+    font-family: Segoe UI,Arial,Verdana,Tahoma,sans-serif;
+    width: 916px;
+}
+
+.mstHdrV3 .mstHdr_MenuItemSiteIdentity a, .mstHdrV3 .mstHdr_MenuItemSiteIdentity a:link, .mstHdrV3 .mstHdr_MenuItemSiteIdentity a:visited, .mstHdrV3 .mstHdr_MenuItemSiteIdentity a:active
+{
+    color: #333;
+    font-size: 30px;
+}
+
+.mstHdrV3 .mstHdr_MenuItemsAccount .selected .mstHdr_MenuItemAccountText
+{
+    border-color: #E0E0E0;
+}
+
+.mstHdrV3 .mstHdr_Flyout
+{
+    border: 1px solid #E0E0E0;
+}
+
+.mstHdrV3 .mstHdr_MenuItemAccountFlyoutLinkText
+{
+    margin-right: 8px;
+}
+
+.mstHdrV3 .mstHdr_MenuItemSignIn
+{
+    margin-left: 10px;
+}
+
+.mstHdrV3 .mstHdr_SignInOut .mstHdr_UserProfileTileImage
+{
+    margin-left: 12px;
+}
+
+.mstSrc, .mstSrc input
+{
+    font-size: 100%;
+}
+
+.mstSrc input.mstSrc_WaterMark
+{
+    color: 0;
+    font-family: Segoe UI,Arial,Verdana,Tahoma,sans-serif;
+    left: 0;
+    _left: 0;
+}
+
+.mstSrc, .mstSrc select
+{
+    font-family: Segoe UI,Arial,Verdana,Tahoma,sans-serif;
+}
+
+.mstSrc .mstSrc_Sources li a, .mstSrc .mstSrc_Suggestions li a
+{
+    padding-left: 10px;
+}
+
+.mstSrc input.mstSrc_TextBox, .mstSrc input.mstSrc_WaterMark
+{
+    margin-left: 3px;
+}
+
+.mstSrc.mstSrc_BrandOutside input.mstSrc_TextBox, .mstSrc.mstSrc_BrandOutside input.mstSrc_WaterMark
+{
+    padding-right: 0;
+}
+
+.mstSrc .mstSrc_OuterBrand
+{
+    margin-left: 9px;
+}
+
+.mstSrc input.mstSrc_Button
+{
+    margin-left: 5px;
+    left: 5px;
+}
+
+.mstSrc .mstSrc_Sources, .mstSrc .mstSrc_Suggestions
+{
+    left: -1px;
+    _left: 0;
+}
+
+.mstSrc .mstSrc_Suggestions li a:hover, .mstSrc .mstSrc_Suggestions li a:focus, .mstSrc .mstSrc_Suggestions li a:active, .mstSrc .mstSrc_Suggestions li a.selected, .mstSrc .mstSrc_Sources li a:hover, .mstSrc .mstSrc_Sources li a:focus, .mstSrc .mstSrc_Sources li a:active
+{
+    background-color: blue;
+    color: #FFF;
+}
+
+.mstSrc .mstSrc_Sources li.currentScope .mstSrc_Check
+{
+    background-position: -20px -24px;
+}
+
+.mstSrc .mstSrc_Sources li.currentScope a:hover .mstSrc_Check, .mstSrc .mstSrc_Sources li.currentScope a:focus .mstSrc_Check
+{
+    background-position: 0 -24px;
+}
+
+.mstSrc .mstSrc_Sources li .mstSrc_Check
+{
+    margin-right: 4px;
+}
+
+.mstSrc .mstSrc_Sources li .mstSrc_Text
+{
+    padding-right: 12px;
+}
+
+.mstSrc .mstSrc_FloatDirWidth
+{
+    float: left;
+    margin-top: 5px;
+}
+
+.oneMscomNavV3 .mstNavNavItem
+{
+    float: left;
+    padding-right: 2px;
+}
+
+.oneMscomNavV3 .mstNavNavItemMiddle
+{
+    padding-left: 2px;
+}
+
+.oneMscomNavV3 .mstNavNavItem .mstNavNavItemTabText, .oneMscomNavV3 .mstNavNavItem .mstNavNavItemTabTextLink
+{
+    padding-right: 18px;
+}
+
+.oneMscomNavV3 .mstNavNavItemMiddle .mstNavNavItemTabText, .oneMscomNavV3 .mstNavNavItemMiddle .mstNavNavItemTabTextLink
+{
+    padding-left: 18px;
+}
+
+.oneMscomNavV3 .mstNav4ColMiddle
+{
+    padding-left: 20px;
+}
+
+.oneMscomNavV3 .mstNavMenuListItem a, .oneMscomNavV3 .mstNavMenuListItem2 a
+{
+    font-size: 13px;
+    color: #1570a6;
+}
+
+.oneMscomNavV3 .mstNavMenuListTitle
+{
+    font-size: 16px;
+    color: #000;
+}
+
+.oneMscomNavV3 .mstNavNavItemTabTextLink, .oneMscomNavV3 .mstNavNavItemTabText
+{
+    font-size: 13px;
+    font-weight: 500;
+    color: #000;
+}
+
+.oneMscomNavV3 .mstNavNavItemTabText .selected
+{
+    font-size: 13px;
+    font-weight: 500;
+    color: #1570a6;
+}
+
+.oneMscomNavV3 .mstNavListImg
+{
+    float: left;
+    padding-left: 20px;
+}
+
+.oneMscomNavV3 .mstNavMenuListImgNoPadding
+{
+    padding-left: 0;
+}
+
+.mstHero_Ctls
+{
+    right: 10px;
+}
+
+.mstHero_Ctl_Item
+{
+    background: url(//i.s-microsoft.com/global/onemscomsettings/publishingimages/heroimages/dot.png);
+}
+
+.mstFooterDestLinkListOdd, .mstFooterDestLinkListEven
+{
+    float: left;
+    margin-left: 20px;
+}
+
+.mstFooterMsLinkItemText
+{
+    margin-left: 10px;
+    font-size: 1em;
+}
+
+.mstFooterCopyRight
+{
+    float: right;
+    margin-left: 20px;
+    color: #000;
+    font-size: 100%;
+}
+
+.mstFooterCorpLinkCopyright
+{
+    font-size: .833em;
+}
+
+.mstLcpMenuText
+{
+    margin-left: 10px;
+    float: left;
+    font-size: .833em;
+    font-weight: 400;
+    color: #000;
+}
+
+.mstLcpClose2
+{
+    float: right;
+    margin-right: 20px;
+}
+
+.mstLcpListNotLast
+{
+    margin-right: 20px;
+}
+
+.mstLcpSearchBorder
+{
+    border: 1px solid #DDD;
+}
+
+.mstHdrV3 .mstHdr_StaticSecLeftAlign, .mstSrc .mstSrc_FloatDir, .oneMscomNavV3 .mstNav4ColFlyoutList, .oneMscomNavV3 .mstNavMenuLinks, .oneMscomNavV3 .mstNavMenuImgs, .mstHero_Item, .mstFooterMsLink, .mstFooterMsLinkItemLink, .mstFooterMsLinkItemText, .mstFooterDestLink, .mstFooterPopRes, .mstFooterLocale, .mstLcpMenuImg, .mstLcpList, .mstLcpAllSitesList
+{
+    float: left;
+}
+
+.mstHdrV3 .mstHdr_StaticSecRightAlign, .mstFooterLogo, .mstFooterCorpLink, .mstFooterMoreCorpLink
+{
+    float: right;
+}
+
+.mstHdrV3 .mstHdr_MenuItemAccount a, .mstHdrV3 .mstHdr_MenuItemAccount a:link, .mstHdrV3 .mstHdr_MenuItemAccount a:visited, .mstHdrV3 .mstHdr_MenuItemAccount a:active, .mstHdrV3 .mstHdr_SignInOut #idPPScarab
+{
+    font-size: 13px;
+    color: #0072C6;
+}
+
+.mstNavNavItemFlyout 
+{
+    top: 36px;
+    right: 0;
+    width: 916px!important;
+}
+
+.mstHdrV3 .mstHdr_BrandLine, .oneMscomNavV3 .mstNavNavItemFlyout, .oneMscomNavV3 .selected, .oneMscomNavV3 .mstNavNavFirstItem, .oneMscomFooterV3, .mstFooterV3Backround, .mstLcpFlyout
+{
+    background-color: #EEE;
+}
+
+div.mstSrc, .mstFooterMsLinkItemText a
+{
+    color: #000;
+}
+
+.mstSrc .mstSrc_InnerBrand, .mstSrc input.mstSrc_Button, .mstSrc .mstSrc_OuterBrand, .mstSrc .mstSrc_Sources li.currentScope .mstSrc_Check, .mstSrc .mstSrc_DropdownArrow, .mstLcpSearchImg
+{
+    background-image: url(//i.s-microsoft.com/global/onemscomsettings/publishingimages/searchimages/searchv3.ltr.png);
+}
+
+.mstSrc.mstSrc_BrandOutside, .mstSrc .mstSrc_DropdownArrow
+{
+    margin-left: 0;
+}
+
+.mstSrc .mstSrc_Dropdown, .mstSrc .mstSrc_DropdownPositioner, .oneMscomNavV3 .mstNavNavItemFlyout
+{
+    left: 0;
+}
+
+.mstSrc .mstSrc_Sources li a:link, .mstSrc .mstSrc_Sources li a:visited, .mstSrc .mstSrc_Suggestions li a:link, .mstSrc .mstSrc_Suggestions li a:visited
+{
+    color: #333;
+}
+
+.mstFooterPopRes, .msFooterCorpLinkLi
+{
+    margin-left: 20px;
+}
+
+.mstFooterMsLinkListTitle, .mstFooterDestLinkListTitle, .mstFooterPopResListTitle
+{
+    color: #000;
+    font-size: 1em;
+}
+
+.mstFooterDestLinkListItem, .mstFooterPopResListItem, .mstLcpSearchText
+{
+    font-size: .813em;
+}
+
+.mstFooterDestLinkListItem a, .mstFooterPopResListItem a, .mstFooterCorpLinkCopyright a
+{
+    color: #0060a6;
+}
+
+.mstLcpLangSiteText, .mstLcpAllSitesText
+{
+    font-size: 1.825em;
+    color: #000;
+}
+
+.mstLcpClose1, .mstLcpSearch
+{
+    right: 20px;
+}
+
+.mstLcpSiteSites li a, .mstLcpAllSitesLinks li a
+{
+    font-size: 1em;
+    color: #0060a6;
+}
+
+.main-content {
+    width: 920px;
+}
+
+ul.homepage_AccordianHeadings h4 {
+    background-position: 3px 2px;
+}
+
+ul.homepage_AccordianHeadings h4.clicked  {
+    background-position: 3px -30px;
+}
+
+#slides {
+	position:relative;
+	z-index:100;
+}
+
+/*
+	Slides container
+	Important:
+	Set the width of your slides container
+	Set to display none, prevents content flash
+*/
+
+.slides_container {
+	width:685px;
+	overflow:hidden;
+	position:relative;
+	display:none;
+}
+
+/*
+	Each slide
+	Important:
+	Set the width of your slides
+	If height not specified height will be set by the slide content
+	Set to display block
+*/
+
+.slides_container div.slide {
+	width:685px;
+	height:310px;
+	display:block;
+}
+
+/*
+	Pagination
+*/
+
+.pagination {
+    position: absolute;
+    right: 20px;
+    top: 10px;
+    z-index: 6;
+}
+
+.pagination li {
+	float:left;
+	margin:0 1px;
+	list-style:none;
+}
+
+.pagination li a {
+	display:block;
+	width:12px;
+	height:0;
+	padding-top:12px;
+	background-image:url(/global/licensing/PublishingImages/pagination.png);
+	background-position:0 0;
+	float:left;
+	overflow:hidden;
+}
+
+.pagination li.current a {
+	background-position:0 -12px;
+}
+
+.marginBottom20 {
+    margin-bottom: 20px !important;
+}
+
+#commonPage h3 {
+margin-bottom: 10px;
+}
+
+#poll-popup {
+    display: none;
+}
+
+div.containerAppearance1 {
+margin-bottom: 1em;
+}
+
+#tab_1, #tab_2, #tab_3, #tab_4, #tab_5, #tab_6 {
+    display: none;
+}
+
+#quote-randomizer .quote {
+    padding-left: 25px;
+}

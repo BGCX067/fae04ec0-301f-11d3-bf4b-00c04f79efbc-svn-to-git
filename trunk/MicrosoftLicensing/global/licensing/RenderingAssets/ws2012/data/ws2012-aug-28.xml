@@ -1,0 +1,386 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>phongnguyen</Author>
+  <LastAuthor>v-jhynes</LastAuthor>
+  <Created>2012-07-12T02:17:17Z</Created>
+  <LastSaved>2012-08-22T03:58:15Z</LastSaved>
+  <Version>14.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>4650</WindowHeight>
+  <WindowWidth>9015</WindowWidth>
+  <WindowTopX>285</WindowTopX>
+  <WindowTopY>1065</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Sheet1">
+  <Table ss:ExpandedColumnCount="5" ss:ExpandedRowCount="58" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Column ss:AutoFitWidth="0" ss:Width="115.5"/>
+   <Column ss:AutoFitWidth="0" ss:Width="119.25"/>
+   <Column ss:Width="123"/>
+   <Column ss:AutoFitWidth="0" ss:Width="263.25"/>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Entry</Data></Cell>
+    <Cell><Data ss:Type="String">Category</Data></Cell>
+    <Cell><Data ss:Type="String">Category</Data></Cell>
+    <Cell><Data ss:Type="String">Question</Data></Cell>
+    <Cell><Data ss:Type="String">Answer</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">New Customer</Data></Cell>
+    <Cell><Data ss:Type="String">Features and Functionality</Data></Cell>
+    <Cell><Data ss:Type="String">Standard &amp; Datacenter</Data></Cell>
+    <Cell><Data ss:Type="String">Are the features different between Windows Server 2012 Standard and Datacenter?</Data></Cell>
+    <Cell><Data ss:Type="String">No, they have the same features. The editions only differ in their virtualization rights.  Refer to the &lt;a href=&quot;http://www.microsoft.com/windowsserver&quot;&gt;Product Website&lt;/a&gt;, or the &lt;a href=&quot;http://www.microsoft.com/licensing/about-licensing/media/ws2012.asx&quot;&gt;Windows Server 2012 Licensing video&lt;/a&gt; for additional information.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3"><Data ss:Type="String">Essentials</Data></Cell>
+    <Cell><Data ss:Type="String">What are the features and functionality of Windows Server 2012 Essentials?</Data></Cell>
+    <Cell><Data ss:Type="String">Windows Server 2012 Essentials is a cloud connected, first server with unique capabilities designed for the needs of small businesses.  Refer to the &lt;a href=&quot;http://www.microsoft.com/windowsserver&quot;&gt;Product Website&lt;/a&gt; for additional information.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Licensing Information</Data></Cell>
+    <Cell><Data ss:Type="String">Standard &amp; Datacenter</Data></Cell>
+    <Cell><Data ss:Type="String">How are the new Windows Server 2012 Standard and Datacenter editions licensed?</Data></Cell>
+    <Cell><Data ss:Type="String">Both Standard and Datacenter editions are licensed following a Processor + CAL model. Each license covers up to two physical processors on a single server. Each user or device that accesses the server(s) will require a CAL.&lt;br/&gt;&lt;br/&gt;For additional details, review the &lt;a href=&quot;http://www.microsoft.com/About/Legal/EN/US/IntellectualProperty/UseTerms/Default.aspx&quot;&gt;Product Use Rights&lt;/a&gt; or the &lt;a href=&quot;http://www.microsoft.com/licensing/about-licensing/media/ws2012.asx&quot;&gt;Windows Server 2012 Licensing video&lt;/a&gt;.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="4"><Data ss:Type="String">What are the Downgrade Rights for the Windows Server 2012 Standard and Datacenter editions?</Data></Cell>
+    <Cell><Data ss:Type="String">Windows Server 2012 Standard can downgrade to earlier versions of Enterprise, Standard or Essentials editions.  Windows Server 2012 Datacenter can downgrade to earlier versions of Datacenter, Enterprise, Standard and Essentials editions.&lt;br/&gt;&lt;br/&gt;Refer to the &lt;a href=&quot;http://www.microsoft.com/About/Legal/EN/US/IntellectualProperty/UseTerms/Default.aspx&quot;&gt;Product Use Rights&lt;/a&gt; for further information.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="4"><Data ss:Type="String">What are the virtualization rights in Windows Server 2012 Standard and Datacenter editions?</Data></Cell>
+    <Cell><Data ss:Type="String">A Windows Server 2012 Standard edition license will entitle you to run up to two virtual instances, and a Datacenter edition license will entitle you to run an unlimited number of virtual instances. </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="4"><Data ss:Type="String">Where can I learn more about the Software Assurance benefits for Windows Server Standard and Datacenter editions?  </Data></Cell>
+    <Cell><Data ss:Type="String">You can learn more about available Software Assurance benefits in the &lt;a href=&quot;http://www.microsoft.com/licensing/about-licensing/product-licensing.aspx#tab=2&quot;&gt;Product List&lt;/a&gt; and &lt;a href=&quot;http://www.microsoft.com/About/Legal/EN/US/IntellectualProperty/UseTerms/Default.aspx&quot;&gt;Product Licensing Page&lt;/a&gt;. </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3"><Data ss:Type="String">Essentials</Data></Cell>
+    <Cell><Data ss:Type="String">How is Windows Server 2012 Essentials licensed?  Do you require CALs to access Windows Server 2012 Essentials?</Data></Cell>
+    <Cell><Data ss:Type="String">Windows Server 2012 Essentials is a server license.  It does not require CALs and supports up to 25 users. For additional details, review the &lt;a href=&quot;http://www.microsoft.com/About/Legal/EN/US/IntellectualProperty/UseTerms/Default.aspx&quot;&gt;Product Use Rights&lt;/a&gt;. </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="4"><Data ss:Type="String">What are the Downgrade Rights for Windows Server 2012 Essentials edition?</Data></Cell>
+    <Cell><Data ss:Type="String">Customers can downgrade to Small Business Server Essentials 2011.  Refer to the &lt;a href=&quot;http://www.microsoft.com/About/Legal/EN/US/IntellectualProperty/UseTerms/Default.aspx&quot;&gt;Product Use Rights&lt;/a&gt; for further information.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="4"><Data ss:Type="String">What are the virtualization rights of Windows Server 2012 Essentials edition?</Data></Cell>
+    <Cell><Data ss:Type="String">Windows Server 2012 Essentials can run as a guest in a virtual machine, but cannot be used as a host. </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="4"><Data ss:Type="String">Where can I learn more about the Software Assurance benefits for Windows Server Essentials edition?</Data></Cell>
+    <Cell><Data ss:Type="String">You can learn more about the available Software Assurance benefits in the &lt;a href=&quot;http://www.microsoft.com/licensing/about-licensing/product-licensing.aspx#tab=2&quot;&gt;Product List&lt;/a&gt; and &lt;a href=&quot;http://www.microsoft.com/About/Legal/EN/US/IntellectualProperty/UseTerms/Default.aspx&quot;&gt;Product Use Rights&lt;/a&gt; pages.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">How To Buy and Pricing</Data></Cell>
+    <Cell><Data ss:Type="String">Pricing</Data></Cell>
+    <Cell><Data ss:Type="String">What is the pricing for Windows Server 2012, and how do I purchase it?</Data></Cell>
+    <Cell><Data ss:Type="String">Contact your Microsoft partner, local reseller or your regional &lt;a href=&quot;http://support.microsoft.com/common/international.aspx?RDPATH=dm;en-us;select&amp;target=assistance&quot;&gt;Microsoft customer support center&lt;/a&gt;.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3"><Data ss:Type="String">Part Numbers</Data></Cell>
+    <Cell><Data ss:Type="String">What are the part numbers for the different Windows Server 2012 editions?</Data></Cell>
+    <Cell><Data ss:Type="String">Part numbers can be provided by authorized resellers.  An authorized reseller can be found via &lt;a href=&quot;http://www.pinpoint.microsoft.com/en-US/home&quot;&gt;Microsoft Pinpoint&lt;/a&gt;.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Install and Activation</Data></Cell>
+    <Cell><Data ss:Type="String">Install</Data></Cell>
+    <Cell><Data ss:Type="String">Where can I find assistance with installing Windows Server 2012?</Data></Cell>
+    <Cell><Data ss:Type="String">Please Refer to &lt;a href=&quot;http://technet.microsoft.com/en-us/library/hh801901&quot;&gt;TechNet&lt;/a&gt; for further assistance with Windows Server 2012 installation. </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="4"><Data ss:Type="String">Where can I find assistance with deployment planning?</Data></Cell>
+    <Cell><Data ss:Type="String">Online resources are available via &lt;a href=&quot;http://technet.microsoft.com/en-us/library/hh801901&quot;&gt;TechNet&lt;/a&gt;. Software Assurance customers can go to the &lt;a href=&quot;https://www.microsoft.com/Licensing/servicecenter/default.aspx&quot;&gt;Volume Licensing Service Center&lt;/a&gt; to verify and learn more about deployment planning and Software Assurance benefits.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3"><Data ss:Type="String">Fulfillment</Data></Cell>
+    <Cell><Data ss:Type="String">If I am a Volume Licensing customer, can I download Windows Server 2012?</Data></Cell>
+    <Cell><Data ss:Type="String">Yes, all Volume Licensing customers can download Windows Server 2012 via the &lt;a href=&quot;https://www.microsoft.com/Licensing/servicecenter/default.aspx&quot;&gt;Volume Licensing Service Center&lt;/a&gt;.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3"><Data ss:Type="String">Product Keys</Data></Cell>
+    <Cell><Data ss:Type="String">Where do I obtain product keys?</Data></Cell>
+    <Cell><Data ss:Type="String">You can obtain your product keys through the &lt;a href=&quot;https://www.microsoft.com/Licensing/servicecenter/default.aspx&quot;&gt;Volume Licensing Service Center&lt;/a&gt; or the Microsoft Volume License Key department (888-352-7140). For software obtained outside of Microsoft Volume Licensing, product keys will come with the software.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="4"><Data ss:Type="String">Where do I obtain replacement key(s) if I lost my key or it doesn't work?</Data></Cell>
+    <Cell><Data ss:Type="String">For Volume License customers, replacement product keys can be obtained via the Microsoft &lt;a href=&quot;https://www.microsoft.com/Licensing/servicecenter/default.aspx&quot;&gt;Volume Licensing Service Center&lt;/a&gt; or the Microsoft Volume License Activation Center (888-352-7140). For software obtained outside of Microsoft Volume Licensing, replacement product keys can be obtained through the original source or technical support.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3"><Data ss:Type="String">Activation</Data></Cell>
+    <Cell><Data ss:Type="String">How do I activate? </Data></Cell>
+    <Cell><Data ss:Type="String">When acquired through Volume Licensing, Windows Server 2012 can be activated through Key Management Service (KMS), Active Directory-based activation, or Multiple Activation Key (MAK) activation.&lt;br/&gt;&lt;br/&gt;For more information, please refer to the &lt;a href=&quot;http://www.microsoft.com/volumeactivation&quot;&gt;Activation Page&lt;/a&gt;.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">System Requirements</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">What are the system requirements?</Data></Cell>
+    <Cell><Data ss:Type="String">Refer to &lt;a href=&quot;http://technet.microsoft.com/library/jj134246#BKMK_sysreq&quot;&gt;TechNet&lt;/a&gt; for more information. </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Existing Customer</Data></Cell>
+    <Cell><Data ss:Type="String">Features and Functionality</Data></Cell>
+    <Cell><Data ss:Type="String">Standard &amp; Datacenter</Data></Cell>
+    <Cell><Data ss:Type="String">Are the features different between Windows Server 2012 Standard and Datacenter?</Data></Cell>
+    <Cell><Data ss:Type="String">No, they have the same features.  The only difference between the editions are the virtualization rights.  Refer to the &lt;a href=&quot;http://www.microsoft.com/windowsserver&quot;&gt;Product Website&lt;/a&gt;, or the &lt;a href=&quot;http://www.microsoft.com/licensing/about-licensing/media/ws2012.asx&quot;&gt;Windows Server 2012 Licensing video&lt;/a&gt; for additional information. </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3"><Data ss:Type="String">Essentials</Data></Cell>
+    <Cell><Data ss:Type="String">What are the features and functionality of Windows Server 2012 Essentials?</Data></Cell>
+    <Cell><Data ss:Type="String">Windows Server 2012 Essentials is a cloud connected, first server with unique capabilities designed for the needs of small businesses.  Refer to the &lt;a href=&quot;http://www.microsoft.com/windowsserver&quot;&gt;Product Website&lt;/a&gt; for additional information. </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Licensing Information</Data></Cell>
+    <Cell><Data ss:Type="String">Standard &amp; Datacenter</Data></Cell>
+    <Cell><Data ss:Type="String">How are the new Windows Server 2012 Editions licensed?</Data></Cell>
+    <Cell><Data ss:Type="String">Both Standard and Datacenter editions are licensed following a Processor + CAL model. Each license covers up to two physical processors on a single server. Each user or device that accesses the server(s) will require a CAL.&lt;br/&gt;&lt;br/&gt;For additional details, review the &lt;a href=&quot;http://www.microsoft.com/About/Legal/EN/US/IntellectualProperty/UseTerms/Default.aspx&quot;&gt;Product Use Rights&lt;/a&gt;, or the &lt;a href=&quot;http://www.microsoft.com/licensing/about-licensing/media/ws2012.asx&quot;&gt;Windows Server 2012 Licensing video&lt;/a&gt;.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="4"><Data ss:Type="String">What are the Downgrade Rights for each Windows Server 2012 edition?</Data></Cell>
+    <Cell><Data ss:Type="String">Windows Server 2012 Standard can downgrade to earlier versions of Enterprise, Standard or Essentials editions.  Windows Server 2012 Datacenter can downgrade to earlier versions of Datacenter, Enterprise, Standard and Essentials editions.  Refer to the &lt;a href=&quot;http://www.microsoft.com/About/Legal/EN/US/IntellectualProperty/UseTerms/Default.aspx&quot;&gt;Product Use Rights&lt;/a&gt; for further information.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="4"><Data ss:Type="String">What are the virtualization rights in Windows Server 2012?</Data></Cell>
+    <Cell><Data ss:Type="String">A Windows Server 2012 Standard edition license will entitle you to run up to two virtual instances, and a Datacenter edition license will entitle you to run an unlimited number of virtual instances. </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3"><Data ss:Type="String">Essentials</Data></Cell>
+    <Cell><Data ss:Type="String">How is Windows Server 2012 Essentials licensed?  Do you require CALs to access Windows Server 2012 Essentials?</Data></Cell>
+    <Cell><Data ss:Type="String">Windows Server 2012 Essentials is a server license.  It does not require CALs and supports up to 25 users. For additional details, review the &lt;a href=&quot;http://www.microsoft.com/About/Legal/EN/US/IntellectualProperty/UseTerms/Default.aspx&quot;&gt;Product Use Rights&lt;/a&gt;. </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="4"><Data ss:Type="String">What are the Downgrade Rights for Windows Server 2012 Essentials edition?</Data></Cell>
+    <Cell><Data ss:Type="String">Customers can downgrade to Small Business Server Essentials 2011.  Refer to the &lt;a href=&quot;http://www.microsoft.com/About/Legal/EN/US/IntellectualProperty/UseTerms/Default.aspx&quot;&gt;Product Use Rights&lt;/a&gt; for further information.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="4"><Data ss:Type="String">What are the virtualization rights of Windows Server 2012 Essentials edition?</Data></Cell>
+    <Cell><Data ss:Type="String">Windows Server 2012 Essentials can run as a guest in a virtual machine, but cannot be used as a host. </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="4"><Data ss:Type="String">Where can I learn more about the Software Assurance benefits for Windows Server Essentials edition?  </Data></Cell>
+    <Cell><Data ss:Type="String">You can learn more about available Software Assurance benefits in the &lt;a href=&quot;http://www.microsoft.com/licensing/about-licensing/product-licensing.aspx#tab=2&quot;&gt;Product List&lt;/a&gt; and &lt;a href=&quot;http://www.microsoft.com/About/Legal/EN/US/IntellectualProperty/UseTerms/Default.aspx&quot;&gt;Product Use Rights&lt;/a&gt;. </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Pricing, Part Numbers and Download</Data></Cell>
+    <Cell><Data ss:Type="String">Pricing</Data></Cell>
+    <Cell><Data ss:Type="String">What is the pricing for Windows Server 2012, and how do I purchase it?</Data></Cell>
+    <Cell><Data ss:Type="String">Contact your Microsoft partner, local reseller or your regional &lt;a href=&quot;http://www.support.microsoft.com/common/international.aspx?RDPATH=dm;en-us;select&amp;target=assistance&quot;&gt;Microsoft customer support center&lt;/a&gt;.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3"><Data ss:Type="String">Part Numbers</Data></Cell>
+    <Cell><Data ss:Type="String">What are the part numbers for the different Windows Server 2012 editions?</Data></Cell>
+    <Cell><Data ss:Type="String">Part numbers can be provided by authorized resellers.  An authorized reseller can be found via &lt;a href=&quot;http://www.pinpoint.microsoft.com/en-US/home&quot;&gt;Microsoft Pinpoint&lt;/a&gt;.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3"><Data ss:Type="String">How to Download</Data></Cell>
+    <Cell><Data ss:Type="String">Where do I download my products?</Data></Cell>
+    <Cell><Data ss:Type="String">All Volume Licensing customers can download Windows Server 2012 via the &lt;a href=&quot;https://www.microsoft.com/licensing/servicecenter/default.aspx&quot;&gt;Volume Licensing Service Center&lt;/a&gt;.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Software Assurance and Migrations</Data></Cell>
+    <Cell><Data ss:Type="String">Software Assurance Benefits</Data></Cell>
+    <Cell><Data ss:Type="String">Where can I learn more about the Software Assurance benefits for Windows Servers?  </Data></Cell>
+    <Cell><Data ss:Type="String">You can learn more about the available Software Assurance benefits in the &lt;a href=&quot;http://www.microsoft.com/licensing/about-licensing/product-licensing.aspx#tab=2&quot;&gt;Product List&lt;/a&gt; and &lt;a href=&quot;http://www.microsoft.com/About/Legal/EN/US/IntellectualProperty/UseTerms/Default.aspx&quot;&gt;Product Use Rights&lt;/a&gt;. </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3"><Data ss:Type="String">New Version Rights</Data></Cell>
+    <Cell><Data ss:Type="String">What are the migration rights for each edition?</Data></Cell>
+    <Cell><Data ss:Type="String">Customers with active Software Assurance are eligible to upgrade to Windows Server 2012.  New Version Rights and license grants are specified in the &lt;a href=&quot;http://www.microsoft.com/licensing/about-licensing/product-licensing.aspx#tab=2&quot;&gt;Product List&lt;/a&gt;.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="4"><Data ss:Type="String">What are the migration rights for CALs?</Data></Cell>
+    <Cell><Data ss:Type="String">Customers with Software Assurance on Windows Server Client Access Licenses (CAL) migrate to Windows Server 2012 CALs. New Version Rights and license grants are specified in the &lt;a href=&quot;http://www.microsoft.com/licensing/about-licensing/product-licensing.aspx#tab=2&quot;&gt;Product List&lt;/a&gt;.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3"><Data ss:Type="String">Step-Ups</Data></Cell>
+    <Cell><Data ss:Type="String">Can I step-up my lower edition licenses to a higher edition license?</Data></Cell>
+    <Cell><Data ss:Type="String">Customers may migrate from a lower level edition to a higher level edition of certain products with a Software Assurance Step-Up License as specified in the &lt;a href=&quot;http://www.microsoft.com/licensing/about-licensing/product-licensing.aspx#tab=2&quot;&gt;Product List&lt;/a&gt;.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Installation, Upgrades and Activations</Data></Cell>
+    <Cell><Data ss:Type="String">Product Keys</Data></Cell>
+    <Cell><Data ss:Type="String">Where do I obtain product keys?</Data></Cell>
+    <Cell><Data ss:Type="String">You can obtain your product keys through the &lt;a href=&quot;https://www.microsoft.com/licensing/servicecenter/default.aspx&quot;&gt;Volume Licensing Service Center&lt;/a&gt; or the Microsoft Volume License Key department (888-352-7140). For software obtained outside of Microsoft Volume Licensing, product keys will come with the software.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="4"><Data ss:Type="String">Where do I obtain replacement key(s) if I lost my key or it doesn't work?</Data></Cell>
+    <Cell><Data ss:Type="String">For Volume License customers, replacement product keys can be obtained via the Microsoft &lt;a href=&quot;https://www.microsoft.com/licensing/servicecenter/default.aspx&quot;&gt;Volume Licensing Service Center&lt;/a&gt; or the Microsoft Volume License Activation Center (888-352-7140). For software obtained outside of Microsoft Volume Licensing, replacement product keys can be obtained through the original source or technical support.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3"><Data ss:Type="String">Activation</Data></Cell>
+    <Cell><Data ss:Type="String">How do I activate? </Data></Cell>
+    <Cell><Data ss:Type="String">When acquired through Volume Licensing, Windows Server 2012 can be activated through Key Management Service (KMS), Active Directory-based activation, or Multiple Activation Key (MAK) activation.&lt;br/&gt;&lt;br/&gt;For more information, please refer to the &lt;a href=&quot;http://www.microsoft.com/volumeactivation&quot;&gt;Activation Page&lt;/a&gt;.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3"><Data ss:Type="String">Upgrades</Data></Cell>
+    <Cell><Data ss:Type="String">Where can I find out more information about upgrade installations?</Data></Cell>
+    <Cell><Data ss:Type="String">For information about upgrade installations, please refer to &lt;a href=&quot;http://technet.microsoft.com/library/jj134246#BKMK_sysreq&quot;&gt;TechNet&lt;/a&gt;.  </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="4"><Data ss:Type="String">Can I purchase an upgrade from one edition to another?</Data></Cell>
+    <Cell><Data ss:Type="String">Customers may migrate from a lower level edition to a higher level edition of certain products with a Software Assurance Step-Up License as specified in the &lt;a href=&quot;http://www.microsoft.com/licensing/about-licensing/product-licensing.aspx#tab=2&quot;&gt;Product List&lt;/a&gt;.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="4"><Data ss:Type="String">Can I convert an evaluation edition of Windows Server 2012 to a full version?</Data></Cell>
+    <Cell><Data ss:Type="String">Yes, when the license key is installed, the full functionality will be unlocked.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3"><Data ss:Type="String">Installation</Data></Cell>
+    <Cell><Data ss:Type="String">Where can I find assistance with installing Windows Server 2012?</Data></Cell>
+    <Cell><Data ss:Type="String">Please Refer to &lt;a href=&quot;http://technet.microsoft.com/en-us/library/hh801901&quot;&gt;TechNet&lt;/a&gt; for further assistance with Windows Server 2012 installation. </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="4"><Data ss:Type="String">Where can I find assistance with deployment planning?</Data></Cell>
+    <Cell><Data ss:Type="String">Online resources are available via &lt;a href=&quot;http://technet.microsoft.com/library/jj134246#BKMK_sysreq&quot;&gt;TechNet&lt;/a&gt;. Software Assurance customers can work with the &lt;a href=&quot;https://www.licensing.microsoft.com&quot;&gt;Volume Licensing Service Center&lt;/a&gt; to verify and learn more about deployment planning and Software Assurance benefits.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Editions</Data></Cell>
+    <Cell><Data ss:Type="String">Datacenter </Data></Cell>
+    <Cell><Data ss:Type="String">Licensing</Data></Cell>
+    <Cell><Data ss:Type="String">How is Windows Server 2012 Datacenter edition licensed?</Data></Cell>
+    <Cell><Data ss:Type="String">Datacenter edition is licensed following a Processor + CAL model. Each license covers up to two physical processors on a single server. Each user or device that accesses the server(s) will require a CAL.&lt;br/&gt;&lt;br/&gt;For additional details, review the &lt;a href=&quot;http://www.microsoft.com/About/Legal/EN/US/IntellectualProperty/UseTerms/Default.aspx&quot;&gt;Product Use Rights&lt;/a&gt;, or the &lt;a href=&quot;http://www.microsoft.com/licensing/about-licensing/media/ws2012.asx&quot;&gt;Windows Server 2012 Licensing video&lt;/a&gt;. </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="4"><Data ss:Type="String">How do I license users or devices that access Windows Server 2012 Datacenter edition?</Data></Cell>
+    <Cell><Data ss:Type="String">Windows Server 2012 Datacenter edition maintains the Windows Server CAL requirement for every user or device accessing a server.&lt;br/&gt;&lt;br/&gt;Some additional or advanced functionality requires the purchase of an additive CAL. These are CALs that you need in addition to the Windows Server CAL to access functionality, such as Remote Desktop Services or Active Directory Rights Management Services.&lt;br/&gt;&lt;br/&gt;Please refer to the &lt;a href=&quot;http://www.microsoft.com/About/Legal/EN/US/IntellectualProperty/UseTerms/Default.aspx&quot;&gt;Product Use Rights&lt;/a&gt; document for further details.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="4"><Data ss:Type="String">How do I determine the most effective licensing for my environment?</Data></Cell>
+    <Cell><Data ss:Type="String">Refer to the &lt;a href=&quot;http://www.microsoft.com/licensing/mla&quot;&gt;Microsoft Licensing Advisor&lt;/a&gt; or &lt;a href=&quot;http://www.microsoft.com/About/Legal/EN/US/IntellectualProperty/UseTerms/Default.aspx&quot;&gt;Product Use Rights&lt;/a&gt;, or contact your local &lt;a href=&quot;http://www.microsoft.com/licensing/contact-us.aspx&quot;&gt;Customer Service Group&lt;/a&gt;.&#10;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3"><Data ss:Type="String">Functionality</Data></Cell>
+    <Cell><Data ss:Type="String">What is the feature differentiation between Windows Server 2012 Datacenter and Standard editions?</Data></Cell>
+    <Cell><Data ss:Type="String">Windows Server 2012 Datacenter and Standard editions have the same features.  The only difference between the editions are the virtualization rights.&lt;br/&gt;&lt;br/&gt;Refer to the &lt;a href=&quot;http://www.microsoft.com/windowsserver&quot;&gt;Product Website&lt;/a&gt;, or the &lt;a href=&quot;http://www.microsoft.com/licensing/about-licensing/media/ws2012.asx&quot;&gt;Windows Server 2012 Licensing video&lt;/a&gt; for additional information.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Standard</Data></Cell>
+    <Cell><Data ss:Type="String">Licensing</Data></Cell>
+    <Cell><Data ss:Type="String">How is Windows Server 2012 Standard licensed?</Data></Cell>
+    <Cell><Data ss:Type="String">Windows Server 2012 Standard edition is licensed following a Processor + CAL model. Each license covers up to two physical processors on a single server. Each user or device that accesses the server(s) will require a CAL.&lt;br/&gt;&lt;br/&gt;For additional details, review the &lt;a href=&quot;http://www.microsoft.com/About/Legal/EN/US/IntellectualProperty/UseTerms/Default.aspx&quot;&gt;Product Use Rights&lt;/a&gt;, or the &lt;a href=&quot;http://www.microsoft.com/licensing/about-licensing/media/ws2012.asx&quot;&gt;Windows Server 2012 Licensing video&lt;/a&gt;. </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="4"><Data ss:Type="String">How do I license users or devices that access Windows Server 2012 Standard edition?</Data></Cell>
+    <Cell><Data ss:Type="String">Windows Server 2012 Standard edition maintains the Windows Server CAL requirement for every user or device accessing a server.  Some additional or advanced functionality requires the purchase of an additive CAL. These are CALs that you need in addition to the Windows Server CAL to access functionality, such as Remote Desktop Services or Active Directory Rights Management Services.&lt;br/&gt;&lt;br/&gt;Please refer to the &lt;a href=&quot;http://www.microsoft.com/About/Legal/EN/US/IntellectualProperty/UseTerms/Default.aspx&quot;&gt;Product Use Rights&lt;/a&gt; document for further details.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="4"><Data ss:Type="String">How do I determine the most effective licensing for my environment?</Data></Cell>
+    <Cell><Data ss:Type="String">Refer to the &lt;a href=&quot;http://www.microsoft.com/licensing/mla&quot;&gt;Licensing Advisor&lt;/a&gt; or  &lt;a href=&quot;http://www.microsoft.com/About/Legal/EN/US/IntellectualProperty/UseTerms/Default.aspx&quot;&gt;Product Use Rights&lt;/a&gt;, or contact your local &lt;a href=&quot;http://www.microsoft.com/licensing/contact-us.aspx&quot;&gt;Customer Service Group&lt;/a&gt;.                                 &#10;&#10;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3"><Data ss:Type="String">Functionality</Data></Cell>
+    <Cell><Data ss:Type="String">What is the feature differentiation between Windows Server 2012 Datacenter and Standard editions?</Data></Cell>
+    <Cell><Data ss:Type="String">Windows Server 2012 Datacenter and Standard editions have the same features, the only difference between the editions are the virtualization rights.  Refer to the &lt;a href=&quot;http://www.microsoft.com/windowsserver&quot;&gt;Product Website&lt;/a&gt;, or the &lt;a href=&quot;http://www.microsoft.com/licensing/about-licensing/media/ws2012.asx&quot;&gt;Windows Server 2012 Licensing video&lt;/a&gt; for additional information. </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Essentials</Data></Cell>
+    <Cell><Data ss:Type="String">Licensing</Data></Cell>
+    <Cell><Data ss:Type="String">How is Windows Server 2012 Essentials licensed?  Do you require CALs to access Windows Server 2012 Essentials?</Data></Cell>
+    <Cell><Data ss:Type="String">Windows Server 2012 Essentials is a server license.  It does not require CALs and supports up to 25 users. For additional details, review the &lt;a href=&quot;http://www.microsoft.com/About/Legal/EN/US/IntellectualProperty/UseTerms/Default.aspx&quot;&gt;Product Use Rights&lt;/a&gt;.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="4"><Data ss:Type="String">How do I license users or devices that access Windows Server 2012 Essentials edition?</Data></Cell>
+    <Cell><Data ss:Type="String">Windows Server 2012 Essentials does not require Client Access Licenses (CALs).  It supports up to 25 users. </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3"><Data ss:Type="String">Functionality</Data></Cell>
+    <Cell><Data ss:Type="String">What are the features and functionality of Windows Server 2012 Essentials?</Data></Cell>
+    <Cell><Data ss:Type="String">Windows Server 2012 Essentials is a cloud connected, first server with unique capabilities designed for the needs of small businesses.  Refer to the &lt;a href=&quot;http://www.microsoft.com/windowsserver&quot;&gt;Product Website&lt;/a&gt; for additional information.  </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Foundation</Data></Cell>
+    <Cell><Data ss:Type="String">Licensing</Data></Cell>
+    <Cell><Data ss:Type="String">How is Windows Server 2012 Foundation licensed?</Data></Cell>
+    <Cell><Data ss:Type="String">Windows Server 2012 Foundation is a server license. It does not require CALs and supports up to 15 users. For additional details, review the &lt;a href=&quot;http://www.microsoft.com/About/Legal/EN/US/IntellectualProperty/UseTerms/Default.aspx&quot;&gt;Product Use Rights&lt;/a&gt;.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="4"><Data ss:Type="String">How do I license users or devices that access Windows Server 2012 Foundation edition?</Data></Cell>
+    <Cell><Data ss:Type="String">Windows Server 2012 Foundation does not require Client Access Licenses (CALs).  It supports up to 15 users. </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3"><Data ss:Type="String">Functionality</Data></Cell>
+    <Cell><Data ss:Type="String">What functionality does Windows Server 2012 Foundation provide? </Data></Cell>
+    <Cell><Data ss:Type="String">Windows Server 2012 Foundation is an entry level cost-effective server.  Refer to the &lt;a href=&quot;http://www.microsoft.com/windowsserver&quot;&gt;Product Website&lt;/a&gt; for additional information. </Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Unsynced/>
+   <Print>
+    <ValidPrinterInfo/>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+   <Zoom>90</Zoom>
+   <Selected/>
+   <LeftColumnVisible>1</LeftColumnVisible>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>26</ActiveRow>
+     <ActiveCol>4</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="Sheet2">
+  <Table ss:ExpandedColumnCount="1" ss:ExpandedRowCount="1" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Row ss:AutoFitHeight="0"/>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Unsynced/>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="Sheet3">
+  <Table ss:ExpandedColumnCount="1" ss:ExpandedRowCount="1" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Row ss:AutoFitHeight="0"/>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Unsynced/>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

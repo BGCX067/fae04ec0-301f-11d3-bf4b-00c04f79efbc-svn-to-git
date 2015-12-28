@@ -1,0 +1,324 @@
+ div.widget-guide
+{
+	font-family: "Segoe UI", "Trebuchet MS", Verdana, sans-serif !important;
+	width: 561px;
+	height: 397px;
+	overflow: hidden;
+	/*background:url("/global/licensing/renderingassets/ws2012/images/BG.png");*/
+	background-color: #252B67;
+	color: #fff !important;
+	line-height: 17px !important;
+	text-align: left;
+	list-style: none;
+	list-style-type: none;
+	opacity: 0;
+	position: relative;
+}
+
+div.widget-guide div#widget-logo
+{
+	width: 200px;
+	height: 38px;
+	position: absolute;
+	left: 26px;
+	top: 44px;
+	cursor: pointer;
+	background-color: transparent;
+	background-image: url(../images/winserver-logo.png);
+	background-repeat: no-repeat;
+	margin-left:312px;
+}
+
+div.widget-guide div#volume-licensing-text {
+	width: 216px;
+	height: 62px;
+	position: absolute;
+	left: 20px;
+	top: 27px;
+	background: transparent url(../images/volume-licensing-white.png) no-repeat;
+	margin-top: 13px;
+	margin-left: 5px;
+}
+
+div.widget-guide a
+{
+    text-decoration:none;
+	color:#4553A3;
+}
+
+div.widget-guide #navigation{
+	margin-top:32px;/*f22px*/
+	top:52px;/*fix*/
+}
+
+div.widget-guide #navigation a:hover
+{
+	/*text-decoration:underline;*/
+}
+
+div.widget-guide a.btn{
+	padding: 10px 15px 10px 50px;
+	background-color: #a0c710;
+	color: #000;
+}
+
+div.widget-guide a.btn:hover{
+	color: #18234d;
+}
+
+div.widget-guide div#instructions
+{
+	position:absolute;
+	left:26px;
+	top:160px;
+	font-size:15px;
+	opacity:0;
+	font-weight:normal;
+
+}
+
+div.widget-guide div#instructions div#instr-title
+{
+	max-width:200px;
+	font-size:12px;
+	margin-top: 11px;
+}
+
+* + html div.widget-guide div#instructions div#instr-title
+{
+	margin-top:3px;
+}
+
+
+div.widget-guide div#instructions div#instr-step
+{
+	font-size:12px;
+}
+
+div.widget-guide div#answerContent
+{
+	width:305px;
+	position:absolute;
+	left:230px;
+	top:20px;
+	font-size:11px;
+	font-weight: normal;
+	opacity:.7;
+}
+
+div.widget-guide div#answerContent div#copy a
+{
+    line-height:15px;
+}
+
+div.widget-guide div#answerContent div#copy
+{
+	background-color: #FFCB09;
+	position: relative;
+	z-index: 1;
+	margin-top:50px;
+}
+
+div.widget-guide div#answerContent div#copy div#copy-text
+{
+	margin:10px;
+	max-height:117px;
+	line-height:15px !important;
+	overflow-y:auto;
+	overflow-x:hidden;
+	color: #18244E;
+
+	padding-left:8px;
+	padding-right:8px;
+}
+
+div.widget-guide div#util
+{
+	position:absolute;
+	left:456px;
+	top:344px;
+}
+
+div.widget-guide div#util a#util-print,
+div.widget-guide div#util a#util-email
+{
+
+	margin-left:10px;
+	display:inline-block;
+	cursor:pointer;
+}
+
+div.widget-guide div#util a#util-print
+{
+	background:transparent url("../images/lca-print-white.png") no-repeat;
+	width:28px;
+	height:34px;
+	margin-top:3px;
+	margin-top:4px\9;
+}
+
+div.widget-guide div#util a#util-email
+{
+	background:transparent url("../images/lca-email-white.png") no-repeat;
+	width:37px;
+	height:32px;
+	margin-top:5px;
+}
+
+div.widget-guide div#answerContent div#help
+{
+	position:relative;
+	z-index:0;
+}
+
+div.widget-guide div#answerContent div#help div#help-text
+{
+	position: absolute;
+	left: 0;
+	padding: 10px 10px 10px 10px;
+	color: #18244E;
+	line-height:15px  !important;/*10px */
+	width: 285px\9; /* IE 8 and below */
+	*width:285px; /* IE 7 and below */
+	background-color: #8DC13F;
+	padding-bottom:8px;/*14px*/
+	padding-top:28px;/*27px*/
+	padding-left:17px;
+	padding-right:18px;/*13px*/
+	/*margin-right:5px;*/
+	width:270px;
+	margin-top:31px;
+}
+
+div.widget-guide div#answerContent div#help div#help-text span{
+	display:block !important;
+	margin-bottom:2px;
+}
+
+div.widget-guide div#answerContent div#help a:link
+{
+	color:#4553A3;
+}
+
+div.widget-guide div#answerContent div#help a#yes
+{
+    padding-left: 5px;
+}
+div.widget-guide div#answerContent a:visited
+{
+    color: #4553A3;
+}
+
+div.widget-guide div.buttons
+{
+	position:absolute;
+	left:243px;
+	top:0px;
+	opacity:0;
+}
+
+div.widget-guide div.buttons ul li
+{
+	padding-bottom:0px;
+	position:relative;	
+	background-color: #8DC13F;
+	margin-bottom: 4px;	
+	width:292px;
+	height:54px;
+}
+
+* + html div.widget-guide div.buttons ul li
+{
+	margin-bottom: 0px;	
+}
+
+div.widget-guide div.buttons ul li:hover{
+	background-color: #FFAF00;
+	color: #18234d;
+}
+
+div.widget-guide div.buttons ul li span
+{
+	display:inline-block;
+	position:relative;
+	width:262px;
+	height:53px;
+	cursor:pointer;
+	padding:0px 15px;
+}
+
+div.widget-guide div.buttons ul li a
+{
+	font-family: "Segoe UI" !important;
+	position:absolute;
+	max-width:262px;
+	font-size:12px;
+	line-height:14px;
+	color: #18244E;
+	text-decoration:none;
+    text-align:left;
+}
+
+div.widget-guide div.buttons ul li span:hover
+{
+	
+}
+
+div.widget-guide div.buttons ul li span:hover a, div.widget-guide div.buttons ul li span:hover a:hover
+{
+    	text-decoration:none;
+}
+
+div.widget-guide a#back
+{
+	display: block;
+	height: 30px;
+	cursor: pointer;
+	margin-top: 5px;
+	width: 120px;
+	margin-top: 9px;
+	background: url(../images/btn-back-blue-no-text.png) no-repeat;
+	font-size: 10px;
+	line-height: 28px;
+	color: #18244E;
+	padding-left: 28px;
+	font-weight: bold;
+}
+
+* + html div.widget-guide a#back
+{
+	margin-top: -3px;
+}
+
+div.widget-guide a#restart
+{
+	display: block;
+	height: 30px;
+	cursor: pointer;
+	margin-top: 4px;
+	width: 120px;
+	background: url(../images/btn-return-blue-no-text.png) no-repeat;
+	font-size: 9px;
+	line-height: 28px;
+	font-weight: bold;
+	color: #18244E;
+	padding-left: 28px;
+}
+
+* + html div.widget-guide a#restart
+{
+	margin-top: 4px;
+}
+div.widget-guide div#widget-print
+{
+	display:none;
+}
+
+div.widget-guide div#wrapper-text
+{
+	background-color:#F2B31C;
+	padding-top:1px;
+	padding-bottom:1px;
+	*padding-top:10px;
+	*padding-bottom:12px;
+}

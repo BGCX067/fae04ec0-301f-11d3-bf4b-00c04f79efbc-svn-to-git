@@ -1,0 +1,333 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>Lizzie Martin (OPTYVA)</Author>
+  <LastAuthor>ninhnguyen</LastAuthor>
+  <Created>2012-10-30T02:04:27Z</Created>
+  <LastSaved>2012-11-14T02:55:16Z</LastSaved>
+  <Version>12.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>7365</WindowHeight>
+  <WindowWidth>10020</WindowWidth>
+  <WindowTopX>150</WindowTopX>
+  <WindowTopY>510</WindowTopY>
+  <TabRatio>505</TabRatio>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Sheet2">
+  <Table ss:ExpandedColumnCount="5" ss:ExpandedRowCount="56" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Column ss:Width="134.25"/>
+   <Column ss:AutoFitWidth="0" ss:Width="147"/>
+   <Column ss:AutoFitWidth="0" ss:Width="117"/>
+   <Column ss:AutoFitWidth="0" ss:Width="168.75"/>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Entry Pathway (1)</Data></Cell>
+    <Cell><Data ss:Type="String">Issue Tier 1 (Category)</Data></Cell>
+    <Cell><Data ss:Type="String">Issue Tier 2 (Category)</Data></Cell>
+    <Cell><Data ss:Type="String">Issue Tier 2 (Specific Question)</Data></Cell>
+    <Cell><Data ss:Type="String">Answer and Documentation </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">New Office Customers</Data></Cell>
+    <Cell><Data ss:Type="String">Licensing Information</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">May I install Office on multiple devices per license?</Data></Cell>
+    <Cell><Data ss:Type="String">All versions of Office (except Office 365 ProPlus) allow installation on one primary licensed device. Unless the software is licensed as an Enterprise Product or on a company-wide basis, a copy may be installed on one portable device for use by the primary user of the licensed device.&lt;br/&gt;&lt;br/&gt;Secondary portable rights are only applicable to local installation and don't apply to remote use of Office deployed on a network server. For more information, please refer to the &lt;a href=&quot;http://www.microsoft.com/licensing/about-licensing/briefs/remote-desktop-services.aspx&quot;&gt;Remote Desktop Services&lt;/a&gt; Volume Licensing brief.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="4"><Data ss:Type="String">Am I entitled to downgrade rights?</Data></Cell>
+    <Cell><Data ss:Type="String">Customers who purchase Office Standard 2013 or Office Professional Plus 2013 licenses under any Volume License program may downgrade the suite and use an equivalent prior version of the licensed software.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="4"><Data ss:Type="String">How do I license Office for a remote (RDS, Citrix, VDI, etc.) deployment?</Data></Cell>
+    <Cell><Data ss:Type="String">Office is licensed by device (except Office 365 ProPlus). Each device accessing Office that is hosted on a server requires a license. For more information, please refer to the &lt;a href=&quot;http://www.microsoft.com/licensing/about-licensing/briefs/remote-desktop-services.aspx&quot;&gt;Remote Desktop Services&lt;/a&gt; Volume Licensing brief.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="4"><Data ss:Type="String">What are the benefits of Software Assurance for Office 2013?</Data></Cell>
+    <Cell><Data ss:Type="String">Customers with active Software Assurance on the product release date will be entitled to a wide range of &lt;a href=&quot;http://www.microsoft.com/licensing/software-assurance/default.aspx&quot;&gt;Software Assurance Benefits&lt;/a&gt;, as specified in the &lt;a href=&quot;http://www.microsoft.com/licensing/about-licensing/product-licensing.aspx#tab=2&quot;&gt;Product List&lt;/a&gt; and &lt;a href=&quot;http://www.microsoft.com/licensing/about-licensing/product-licensing.aspx#tab=1&quot;&gt;Product Use Rights&lt;/a&gt; pages. </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">How to Buy, Pricing and Part Numbers</Data></Cell>
+    <Cell><Data ss:Type="String">How to Buy</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Office may be purchased from an &lt;a href=&quot;http://www.pinpoint.microsoft.com/en-US/home&quot;&gt;authorized reseller&lt;/a&gt;. </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3"><Data ss:Type="String">Pricing</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Please contact an &lt;a href=&quot;http://www.pinpoint.microsoft.com/en-US/home&quot;&gt;authorized reseller&lt;/a&gt; for current pricing information and assistance with purchasing. </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3"><Data ss:Type="String">Part Numbers</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Part numbers may be acquired through &lt;a href=&quot;http://www.pinpoint.microsoft.com/en-US/home&quot;&gt;authorized resellers&lt;/a&gt;.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Download, Installation, Product Keys and Activation </Data></Cell>
+    <Cell><Data ss:Type="String">Download Media</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">All Volume Licensing customers may download Office 2013 via the &lt;a href=&quot;https://www.microsoft.com/Licensing/servicecenter/default.aspx&quot;&gt;Volume Licensing Service Center&lt;/a&gt;. For additional information, please review the &lt;a href=&quot;http://www.microsoft.com/licensing/existing-customers/fulfillment.aspx&quot;&gt;Fulfillment Information page&lt;/a&gt;.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3"><Data ss:Type="String">Installation</Data></Cell>
+    <Cell><Data ss:Type="String">Where do I find assistance with installing Office 2013?</Data></Cell>
+    <Cell><Data ss:Type="String">Please refer to the &lt;a href=&quot; http://technet.microsoft.com/en-us/library/cc303401.aspx&quot;&gt;Office 2013 Resource Kit&lt;/a&gt; or the &lt;a href=&quot;http://technet.microsoft.com/en-us/library/ee460874(v=office.15).aspx&quot;&gt;custom installation page&lt;/a&gt; on Technet for further assisstance with Office 2013 installation.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="4"><Data ss:Type="String">Where do I find assistance with Deployment Planning?</Data></Cell>
+    <Cell><Data ss:Type="String">Software Assurance customers may have access to Planning Services. Customers should work with their reseller to learn more about Software Assurance and review their eligibility. For online resources, please refer to the &lt;a href=&quot; http://technet.microsoft.com/en-us/library/cc303401.aspx&quot;&gt;Office 2013 Resource Kit&lt;/a&gt; or the &lt;a href=&quot;http://technet.microsoft.com/en-us/library/cc178982(v=office.15).aspx&quot;&gt;deployment page&lt;/a&gt; on TechNet.&lt;br/&gt;&lt;br/&gt; Software Assurance customers may visit the &lt;a href=&quot;https://www.microsoft.com/Licensing/servicecenter/default.aspx&quot;&gt;Volume Licensing Service Center&lt;/a&gt; to verify and learn more about deployment planning and &lt;a href=&quot;http://www.microsoft.com/licensing/software-assurance/default.aspx&quot;&gt;Software Assurance benefits&lt;/a&gt;.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3"><Data ss:Type="String">Product Keys</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Volume Licensing customers should refer to the &lt;a href=&quot;http://www.microsoft.com/licensing/existing-customers/product-activation.aspx&quot;&gt;Product Activation website&lt;/a&gt; or the &lt;a href=&quot;https://www.microsoft.com/licensing/servicecenter/default.aspx&quot;&gt;Volume Licensing Service Center&lt;/a&gt;. </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3"><Data ss:Type="String">Activation</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Please refer to the &lt;a href=&quot;http://www.microsoft.com/licensing/existing-customers/product-activation.aspx&quot;&gt;Product Activation website&lt;/a&gt; for activation information. </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">System Requirements</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Please refer to TechNet for &lt;a href=&quot;http://technet.microsoft.com/en-us/library/ee624351(v=office.15).aspx&quot;&gt;system requirements&lt;/a&gt;.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Existing Office Customers</Data></Cell>
+    <Cell><Data ss:Type="String">Licensing Information</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">May I install Office on multiple devices per license?</Data></Cell>
+    <Cell><Data ss:Type="String">All versions of Office (except Office 365 ProPlus) allow installation on one primary licensed device. Unless the software is licensed as an Enterprise Product or on a company-wide basis, a copy may be installed on one portable device for use by the primary user of the licensed device.&lt;br/&gt;&lt;br/&gt;Secondary portable rights are only applicable to local installation and don't apply to remote use of Office deployed on a network server. For more information, please refer to the &lt;a href=&quot;http://www.microsoft.com/licensing/about-licensing/briefs/remote-desktop-services.aspx&quot;&gt;Remote Desktop Services&lt;/a&gt; Volume Licensing brief.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="4"><Data ss:Type="String">Am I entitled to downgrade rights?</Data></Cell>
+    <Cell><Data ss:Type="String">Customers who purchase Office Standard 2013 or Office Professional Plus 2013 licenses under any Volume License program may downgrade the suite and use an equivalent prior version of the licensed software.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="4"><Data ss:Type="String">How do I license Office for a remote (RDS, Citrix, VDI, etc.) deployment?</Data></Cell>
+    <Cell><Data ss:Type="String">Office is licensed by device (except Office 365 ProPlus). Each device accessing Office that is hosted on a server requires a license. For more information, please refer to the &lt;a href=&quot;http://www.microsoft.com/licensing/about-licensing/briefs/remote-desktop-services.aspx&quot;&gt;Remote Desktop Services&lt;/a&gt; Volume Licensing brief.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">How to Buy, Pricing, Part Numbers and System Requirements </Data></Cell>
+    <Cell><Data ss:Type="String">How to Buy</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Office may be purchased from an &lt;a href=&quot;http://www.pinpoint.microsoft.com/en-US/home&quot;&gt;authorized reseller&lt;/a&gt;. </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3"><Data ss:Type="String">Pricing</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Please contact an &lt;a href=&quot;http://www.pinpoint.microsoft.com/en-US/home&quot;&gt;authorized reseller&lt;/a&gt; for current pricing information and assistance with purchasing. </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3"><Data ss:Type="String">Part Numbers</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Part numbers may be acquired through &lt;a href=&quot;http://www.pinpoint.microsoft.com/en-US/home&quot;&gt;authorized resellers&lt;/a&gt;.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3"><Data ss:Type="String">System Requirements</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Please refer to TechNet for &lt;a href=&quot;http://technet.microsoft.com/en-us/library/ee624351(v=office.15).aspx&quot;&gt;system requirements&lt;/a&gt;.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Software Assurance and Migrations</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">What are the benefits of Software Assurance for Office 2013?</Data></Cell>
+    <Cell><Data ss:Type="String">Customers with active Software Assurance on the product release date will be entitled to a wide range of &lt;a href=&quot;http://www.microsoft.com/licensing/software-assurance/default.aspx&quot;&gt;Software Assurance Benefits&lt;/a&gt;, as specified in the &lt;a href=&quot;http://www.microsoft.com/licensing/about-licensing/product-licensing.aspx#tab=2&quot;&gt;Product List&lt;/a&gt; and &lt;a href=&quot;http://www.microsoft.com/licensing/about-licensing/product-licensing.aspx#tab=1&quot;&gt;Product Use Rights&lt;/a&gt; pages. </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="4"><Data ss:Type="String">What are the migration rights for each edition?</Data></Cell>
+    <Cell><Data ss:Type="String">Office Standard 2010 customers with active Software Assurance on the release date of Office 2013 will have new version rights to Office Standard 2013.&lt;br/&gt;&lt;br/&gt;Office Professional Plus 2010 customers with active Software Assurance on the release date of Office 2013 will have new version rights to Office Professional Plus 2013.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="4"><Data ss:Type="String">May I step-up my lower edition licenses to higher edition licenses?</Data></Cell>
+    <Cell><Data ss:Type="String">Customers with active Software Assurance on eligible Volume License Agreements may step up from a lower edition to a higher edition of the Office Software (e.g. Standard to Professional Plus). Additional information regarding Step-Ups is located in the &lt;a href=&quot;http://www.microsoft.com/licensing/about-licensing/product-licensing.aspx#tab=2&quot;&gt;Product List&lt;/a&gt; and the &lt;a href=&quot;http://www.microsoft.com/licensing/about-licensing/briefs/stepup-license.aspx&quot;&gt;Step-Up Licensing Brief&lt;/a&gt;.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Download, Installation, Activation and Upgrades</Data></Cell>
+    <Cell><Data ss:Type="String">Download Media</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">All Volume Licensing customers may download Office 2013 via the &lt;a href=&quot;https://www.microsoft.com/Licensing/servicecenter/default.aspx&quot;&gt;Volume Licensing Service Center&lt;/a&gt;. For additional information, please review the &lt;a href=&quot;http://www.microsoft.com/licensing/existing-customers/fulfillment.aspx&quot;&gt;Fulfillment Information page&lt;/a&gt;.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3"><Data ss:Type="String">Installation</Data></Cell>
+    <Cell><Data ss:Type="String">Where do I find assistance with installing Office 2013?</Data></Cell>
+    <Cell><Data ss:Type="String">Please refer to the &lt;a href=&quot; http://technet.microsoft.com/en-us/library/cc303401.aspx&quot;&gt;Office 2013 Resource Kit&lt;/a&gt; or the &lt;a href=&quot;http://technet.microsoft.com/en-us/library/ee460874(v=office.15).aspx&quot;&gt;custom installation page&lt;/a&gt; on Technet for further assisstance with Office 2013 installation.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="4"><Data ss:Type="String">Where do I find assistance with deployment planning?</Data></Cell>
+    <Cell><Data ss:Type="String">Software Assurance customers may have access to Planning Services. Customers should work with their reseller to learn more about Software Assurance and review their eligibility. For online resources, please refer to the &lt;a href=&quot; http://technet.microsoft.com/en-us/library/cc303401.aspx&quot;&gt;Office 2013 Resource Kit&lt;/a&gt; or the &lt;a href=&quot;http://technet.microsoft.com/en-us/library/cc178982(v=office.15).aspx&quot;&gt;deployment page&lt;/a&gt; on TechNet.&lt;br/&gt;&lt;br/&gt; Software Assurance customers may visit the &lt;a href=&quot;https://www.microsoft.com/Licensing/servicecenter/default.aspx&quot;&gt;Volume Licensing Service Center&lt;/a&gt; to verify and learn more about deployment planning and &lt;a href=&quot;http://www.microsoft.com/licensing/software-assurance/default.aspx&quot;&gt;Software Assurance benefits&lt;/a&gt;.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="4"><Data ss:Type="String">Where do I obtain product keys?</Data></Cell>
+    <Cell><Data ss:Type="String">Volume licensing customers should refer to the &lt;a href=&quot;http://www.microsoft.com/licensing/existing-customers/product-activation.aspx&quot;&gt;Product Activation website&lt;/a&gt; or the &lt;a href=&quot;https://www.microsoft.com/licensing/servicecenter/default.aspx&quot;&gt;Volume Licensing Service Center&lt;/a&gt;. </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3"><Data ss:Type="String">Activation</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Please refer to the &lt;a href=&quot;http://www.microsoft.com/licensing/existing-customers/product-activation.aspx&quot;&gt;Product Activation website&lt;/a&gt; for further information. </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3"><Data ss:Type="String">Upgrades</Data></Cell>
+    <Cell><Data ss:Type="String">Do I need to perform a fresh install as opposed to an in-place upgrade?</Data></Cell>
+    <Cell><Data ss:Type="String">It is possible to do an in-place upgrade, however, for the best Office 2013 experience, customers should  uninstall the existing Office Suite and do a fresh install.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="4"><Data ss:Type="String">May I upgrade from one edition to another?</Data></Cell>
+    <Cell><Data ss:Type="String">Software Assurance customers may have access to Planning Services. Customers with active Software Assurance on eligible Volume Licensing Agreements may upgrade from a lower edition to a higher edition of the Office Software (e.g. Standard to Professional Plus). Additional explanation of upgrades are outlined in the &lt;a href=&quot;http://www.microsoft.com/licensing/about-licensing/product-licensing.aspx#tab=2&quot;&gt;Product List&lt;/a&gt; and the &lt;a href=&quot;http://www.microsoft.com/licensing/about-licensing/briefs/stepup-license.aspx&quot;&gt;Step-Up Licenses Brief&lt;/a&gt;.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="4"><Data ss:Type="String">May I convert an evaluation edition to a full version?</Data></Cell>
+    <Cell><Data ss:Type="String">Once the evaluation edition has expired, customers may obtain the full version from the &lt;a href=&quot;https://www.microsoft.com/licensing/servicecenter/default.aspx&quot;&gt;Volume Licensing Service Center&lt;/a&gt;.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Office Editions &amp; Offerings </Data></Cell>
+    <Cell><Data ss:Type="String">Office Standard 2013</Data></Cell>
+    <Cell><Data ss:Type="String">Licensing</Data></Cell>
+    <Cell><Data ss:Type="String">How is Office Standard 2013 licensed?</Data></Cell>
+    <Cell><Data ss:Type="String">Office Standard 2013 is licensed per device. A license is required for each device on which Office is installed (or has access to Office on a server). The primary user of an Office licensed device may also install a copy of the Office Standard Software on a portable device. Please refer to the &lt;a href=&quot;http://www.microsoft.com/licensing/about-licensing/product-licensing.aspx#tab=1&quot;&gt;Product Use Rights&lt;/a&gt; for more details.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="4"><Data ss:Type="String">May I install Office Standard 2013 on multiple devices per license?</Data></Cell>
+    <Cell><Data ss:Type="String">All versions of Office (except Office 365 ProPlus) allow installation on one primary licensed device. Unless  the software is licensed as an Enterprise Product or on a company-wide basis, a copy may be installed on one portable device for use by the primary user of the licensed device.&lt;br/&gt;&lt;br/&gt;Secondary portable rights are only applicable to local installation and don't apply to remote use of Office deployed on a network server. For more information, please refer to the &lt;a href=&quot;http://www.microsoft.com/licensing/about-licensing/briefs/remote-desktop-services.aspx&quot;&gt;Remote Desktop Services&lt;/a&gt; Volume Licensing brief.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="4"><Data ss:Type="String">How do I buy Office Standard 2013?</Data></Cell>
+    <Cell><Data ss:Type="String">Volume licenses for Office Standard 2013 may be purchased from any authorized Volume Licensing reseller. For more information, please refer to &lt;a href=&quot;http://www.pinpoint.microsoft.com/en-US/home&quot;&gt;PinPoint&lt;/a&gt; to find an authorized reseller. </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="4"><Data ss:Type="String">What are the benefits of Software Assurance for Office Standard 2013</Data></Cell>
+    <Cell><Data ss:Type="String">The wide range of Software Assurance benefits includes Roaming Use Rights, the Home Use Program, and New Version Rights. Please refer to the &lt;a href=&quot;http://www.microsoft.com/licensing/about-licensing/product-licensing.aspx#tab=1&quot;&gt;Product Use Rights&lt;/a&gt; and &lt;a href=&quot;http://www.microsoft.com/licensing/about-licensing/product-licensing.aspx#tab=2&quot;&gt;Product List&lt;/a&gt; for more details. </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3"><Data ss:Type="String">Features</Data></Cell>
+    <Cell><Data ss:Type="String">Which Office Applications are included with Office Standard 2013?</Data></Cell>
+    <Cell><Data ss:Type="String">Office Standard 2013 includes the 2013 versions of Word, Excel, PowerPoint, Outlook, OneNote and Publisher.  It also provides rights to access Office Web Apps for the primary user of the licensed device.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="4"><Data ss:Type="String">What are the server integration features of Office Standard 2013?</Data></Cell>
+    <Cell><Data ss:Type="String">Please refer to the  &lt;a href=&quot;http://www.office.microsoft.com/en-us/buy/compare-server-integration-features-between-office-suites-available-through-volume-licensing-FX101850719.aspx&quot;&gt;server integration feature page&lt;/a&gt; for more information.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Office Professional Plus 2013</Data></Cell>
+    <Cell><Data ss:Type="String">Licensing</Data></Cell>
+    <Cell><Data ss:Type="String">How is Office Professional Plus 2013 licensed?</Data></Cell>
+    <Cell><Data ss:Type="String">Office Professional Plus 2013 is licensed per device. A license is required for each device on which Office is installed (or has access to Office on a server).  Unless  the software is licensed as an Enterprise Product or on a company-wide basis, a copy may be installed on one portable device for use by the primary user of the licensed device. Please refer to the &lt;a href=&quot;http://www.microsoft.com/licensing/about-licensing/product-licensing.aspx#tab=1&quot;&gt;Product Use Rights&lt;/a&gt; for more details.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="4"><Data ss:Type="String">May I install Office Professional Plus 2013 on multiple devices per license?</Data></Cell>
+    <Cell><Data ss:Type="String">All versions of Office (except Office 365 ProPlus) allow installation on one primary licensed device. Unless the software is licensed as an Enterprise Product or on a company-wide basis, a copy may be installed on one portable device for use by the primary user of the licensed device.&lt;br/&gt;&lt;br/&gt;Secondary portable rights are only applicable to local installation and don't apply to remote use of Office deployed on a network server. For more information, please refer to the &lt;a href=&quot;http://www.microsoft.com/licensing/about-licensing/briefs/remote-desktop-services.aspx&quot;&gt;about Remote Desktop Services&lt;/a&gt; Volume Licensing brief.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="4"><Data ss:Type="String">How do I buy Office Professional Plus 2013?</Data></Cell>
+    <Cell><Data ss:Type="String">Volume licenses for Office Professional Plus 2013 may be purchased from any authorized Volume Licensing reseller. For more information, please refer to &lt;a href=&quot;http://www.pinpoint.microsoft.com/en-US/home&quot;&gt;PinPoint&lt;/a&gt; to find an authorized reseller. </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="4"><Data ss:Type="String">What are the benefits of Software Assurance for Office Professional Plus 2013?</Data></Cell>
+    <Cell><Data ss:Type="String">The wide range of Software Assurance benefits includes Roaming Use Rights, the Home Use Program, and New Version Rights. Please refer to the &lt;a href=&quot;http://www.microsoft.com/licensing/about-licensing/product-licensing.aspx#tab=1&quot;&gt;Product Use Rights&lt;/a&gt; and &lt;a href=&quot;http://www.microsoft.com/licensing/about-licensing/product-licensing.aspx#tab=2&quot;&gt;Product List&lt;/a&gt; for more details. </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3"><Data ss:Type="String">Features</Data></Cell>
+    <Cell><Data ss:Type="String">Which Office Applications are included with Office Professional Plus 2013?</Data></Cell>
+    <Cell><Data ss:Type="String">Office Professional Plus 2013 includes the 2013 versions of Word, Excel, PowerPoint, Outlook, OneNote, Publisher, Lync, InfoPath, and Access. It also provides rights to access Office Web Apps for the primary user of the licensed device.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="4"><Data ss:Type="String">What are the server integration features of Office Professional Plus 2013?</Data></Cell>
+    <Cell><Data ss:Type="String">Office Professional Plus 2013 includes a version of Outlook 2013 that supports advanced email folders and retention policies, also referred to as personal archiving. Please refer to the &lt;a href=&quot;http://www.office.microsoft.com/en-us/buy/compare-server-integration-features-between-office-suites-available-through-volume-licensing-FX101850719.aspx&quot;&gt;server integration feature page&lt;/a&gt; for more information.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Office 365 ProPlus</Data></Cell>
+    <Cell><Data ss:Type="String">Product Overview</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Office 365 ProPlus is a subscription version of Office offered via Office 365. Benefits include access to the latest version of Office and Office Web Apps, a complete Office experience with services integration and a familiar Office user experience.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3"><Data ss:Type="String">Licensing</Data></Cell>
+    <Cell><Data ss:Type="String">How is Office 365 ProPlus licensed?</Data></Cell>
+    <Cell><Data ss:Type="String">The Office 365 ProPlus is licensed based on a per-user model. Each licensed user is permitted to install Office 365 ProPlus on up to five devices simultaneously. Office 365 ProPlus subscribers also have access to a wide range of applications, providing a familiar and consistent Office user experience across devices. </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="4"><Data ss:Type="String">How do I buy Office 365 ProPlus?</Data></Cell>
+    <Cell><Data ss:Type="String">Office 365 ProPlus may be purchased as an individual item, as part of a selected Office 365 suite directly through the &lt;a href=&quot;http://www.office365.com/&quot;&gt;Microsoft Online Customer Portal&lt;/a&gt;, or through selected Volume Licensing programs. </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="4"><Data ss:Type="String">May I install Office 365 ProPlus on multiple devices?</Data></Cell>
+    <Cell><Data ss:Type="String">Each licensed user is permitted to install Office 365 ProPlus on up to five devices simultaneously. Additionally, licensed users of Office 365 ProPlus will have commercial use rights for Office Home and Student 2013 RT on Windows RT devices. Office 365 ProPlus subscribers also have access to a wide range of applications, providing a familiar and consistent Office user experience across devices. </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3"><Data ss:Type="String">Features</Data></Cell>
+    <Cell><Data ss:Type="String">What Office Applications are included in Office 365 ProPlus?</Data></Cell>
+    <Cell><Data ss:Type="String">Office 365 ProPlus includes the 2013 versions of Word, Excel, PowerPoint, Outlook, OneNote, Publisher, Lync, InfoPath, and Access. </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="4"><Data ss:Type="String">What are the benefits of Office 365 ProPlus?</Data></Cell>
+    <Cell><Data ss:Type="String">Benefits of Office 365 ProPlus include access to the latest version of Office and Office Web Apps, a complete Office experience with services integration and a familiar Office user experience across devices.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String"> Office Home and Student 2013 RT</Data></Cell>
+    <Cell><Data ss:Type="String">Product Overview</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Office Home and Student 2013 RT is a version of Office that is preinstalled on Windows RT licensed devices, or available for purchase via the Windows Store.&lt;br&gt;&lt;br&gt; Volume Licensing users with an Office 2013 license on their primary device, an Office 365 Pro Plus user subscription license, or the Commercial Use Rights device license may use their device with Office Home &amp; Student 2013 RT at work for commercial use.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">How to Buy the Office Multi-Language Pack (MLP)</Data></Cell>
+    <Cell><Data ss:Type="String">I have an Office 2013 Suite with active Software Assurance</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Office 2013 licenses purchased through a Volume Licensing agreement with active Software Assurance include the MLP.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3"><Data ss:Type="String">I have an Office 2013 Suite without Software Assurance (license only)</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">The Office 2013 MLP may be purchased as a standalone license from an authorized Volume Licensing reseller. For more information, please refer to &lt;a href=&quot;http://www.pinpoint.microsoft.com/en-US/home&quot;&gt;PinPoint&lt;/a&gt; to find an authorized reseller. </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Office 365</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">Product Overview</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Office 365 is a Microsoft hosted, cloud-based solution that provides Office Applications, email, file sharing, IM, conferencing, security, and much more. For more information, please visit the &lt;a href=&quot;http://www.microsoft.com/en-us/office365/what-is-office365.aspx&quot;&gt;Office 365 website&lt;/a&gt;.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3"><Data ss:Type="String">How to Buy</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Office 365 is available for purchase directly through the &lt;a href=&quot;http://www.microsoft.com/en-us/office365/compare-plans.aspx?WT.z_O365_ca=Buy_online-software_en-us&quot;&gt;Microsoft Online Customer Portal&lt;/a&gt; or from an &lt;a href=&quot;http://www.pinpoint.microsoft.com/en-US/home&quot;&gt;authorized reseller&lt;/a&gt;.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3"><Data ss:Type="String">Office 365 Trials</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Sign up for a free 30 day trial via the &lt;a href=&quot;http://www.microsoft.com/en-us/office365/free-office365-trial.aspx?WT.z_O365_ca=Try_faqs_header_en-us&quot;&gt;Office 365 website&lt;/a&gt; to explore features, set up user accounts, and test drive Office 365. After 30 days, the trial may be converted into a paid subscription.</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Unsynced/>
+   <Selected/>
+   <TopRowVisible>21</TopRowVisible>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>32</ActiveRow>
+     <ActiveCol>4</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="Sheet3">
+  <Table ss:ExpandedColumnCount="1" ss:ExpandedRowCount="1" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Row ss:AutoFitHeight="0"/>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Unsynced/>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

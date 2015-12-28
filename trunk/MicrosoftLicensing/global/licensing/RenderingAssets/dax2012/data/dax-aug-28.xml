@@ -1,0 +1,234 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>phongnguyen</Author>
+  <LastAuthor>phongnguyen</LastAuthor>
+  <Created>2012-07-12T02:17:17Z</Created>
+  <LastSaved>2012-08-28T04:55:29Z</LastSaved>
+  <Version>12.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>6150</WindowHeight>
+  <WindowWidth>8925</WindowWidth>
+  <WindowTopX>0</WindowTopX>
+  <WindowTopY>60</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Sheet1">
+  <Table ss:ExpandedColumnCount="5" ss:ExpandedRowCount="29" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Column ss:AutoFitWidth="0" ss:Width="115.5"/>
+   <Column ss:AutoFitWidth="0" ss:Width="111"/>
+   <Column ss:AutoFitWidth="0" ss:Width="237"/>
+   <Column ss:AutoFitWidth="0" ss:Width="261.75"/>
+   <Column ss:AutoFitWidth="0" ss:Width="242.25"/>
+   <Row>
+    <Cell><Data ss:Type="String">Entry</Data></Cell>
+    <Cell><Data ss:Type="String">Category</Data></Cell>
+    <Cell><Data ss:Type="String">Category</Data></Cell>
+    <Cell><Data ss:Type="String">Question</Data></Cell>
+    <Cell><Data ss:Type="String">Answer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">New to Volume Licensing</Data></Cell>
+    <Cell><Data ss:Type="String">How to Buy Licenses</Data></Cell>
+    <Cell><Data ss:Type="String">Commercial and Government Organizations</Data></Cell>
+    <Cell><Data ss:Type="String">My organization has more than 250 users or devices</Data></Cell>
+    <Cell><Data ss:Type="String">For commercial and government organizations, Microsoft Dynamics AX 2012 licenses can be acquired through the Microsoft Enterprise Agreement (EA) or Enterprise Subscription Agreement. For organizations with 250 or more users or devices, the EA provides you with the best overall pricing based on your organization’s size, the benefits of Software Assurance, as well as simplified licensing management via your organization-wide agreement. You also have the option acquire your licenses on a subscription basis.&lt;br/&gt;&lt;br/&gt;Please contact your Microsoft representative for more information or refer to the &lt;a href=&quot;http://www.microsoft.com/licensing/licensing-options/enterprise.aspx&quot;&gt;Enterprise Agreement program page&lt;/a&gt; to learn more.  </Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">My organization has fewer than 250 users or devices</Data></Cell>
+    <Cell><Data ss:Type="String">You can acquire Microsoft Dynamics AX 2012 licenses through the Business Value Licensing program. Please contact a &lt;a href=&quot;http://www.pinpoint.microsoft.com&quot;&gt;Microsoft Dynamics Partner&lt;/a&gt; for more information.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="3"><Data ss:Type="String">Education Organizations</Data></Cell>
+    <Cell><Data ss:Type="String">My organization has 1000 or more full-time equivalent (FTE) employees</Data></Cell>
+    <Cell><Data ss:Type="String">For qualifying education organizations, Microsoft Dynamics AX 2012 licenses are offered through the Enrollment for Education Solutions (EES) under the Campus and School Agreement (CASA + EES contract option). The EES provides a simplified and more cost-effective way to acquire Microsoft software and services under a single subscription agreement. &lt;br/&gt;&lt;br/&gt;Please contact your Microsoft representative for more information or refer to the &lt;a href=&quot;http://www.microsoft.com/education/en-us/buy/licensing/Pages/enrollmentforeducationsolutions.aspx&quot;&gt;EES program page&lt;/a&gt; to learn more.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">My organization has fewer than 1000 full-time equivalent (FTE) employees</Data></Cell>
+    <Cell><Data ss:Type="String">You can acquire Microsoft Dynamics AX 2012 licenses through the Business Value Licensing program. Please contact a &lt;a href=&quot;http://www.pinpoint.microsoft.com&quot;&gt;Microsoft Dynamics Partner&lt;/a&gt; for more information.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">Licensing Model</Data></Cell>
+    <Cell><Data ss:Type="String">Server + Client Access License (CAL)</Data></Cell>
+    <Cell><Data ss:Type="String">How do I license servers in the Server + CAL model?</Data></Cell>
+    <Cell><Data ss:Type="String">Microsoft Dynamics AX 2012 functionality is licensed through the server license. You must acquire a server license for each instance of the software that will run in a physical or virtual operating system environment. There is one edition of Microsoft Dynamics AX 2012, which includes complete functionality.&lt;br/&gt;&lt;br/&gt;Please refer to the &lt;a href=&quot;http://www.microsoft.com/licensing/about-licensing/product-licensing.aspx&quot;&gt;Product Use Rights&lt;/a&gt; document for further details. </Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">How do I license users and devices?  </Data></Cell>
+    <Cell><Data ss:Type="String">Users and devices require Client Access Licenses (CALs) to access licensed servers. Each user CAL permits one user, using any device, to access instances of the server software on a licensed server. Each device CAL permits one device, used by any user, to access instances of the server software on a licensed server. A combination of device and user CALs may be utilized.&lt;br/&gt;&lt;br/&gt;Please refer to the &lt;a href=&quot;http://www.microsoft.com/licensing/about-licensing/product-licensing.aspx&quot;&gt;Product Use Rights&lt;/a&gt; document for further details. </Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">How do I license external users?</Data></Cell>
+    <Cell><Data ss:Type="String">External users do not require Microsoft Dynamics AX 2012 CALs to access any Dynamics AX 2012 licensed server. External users are individuals who are neither your or your affiliates’ employees, onsite contractors or onsite agents.&lt;br/&gt;&lt;br/&gt;Please refer to the &lt;a href=&quot;http://www.microsoft.com/licensing/about-licensing/product-licensing.aspx&quot;&gt;Product Use Rights document&lt;a/&gt; for further details.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">How many CAL levels are offered to license users and devices?</Data></Cell>
+    <Cell><Data ss:Type="String">Dynamics AX 2012 is available with four levels of CALs (Self Serve, Task, Functional, and Enterprise); each CAL grants an increasingly wider spectrum of use rights for accessing functionality, inclusive of the rights granted for any lower-level CAL. This provides licensing flexibility, allowing users to derive incremental value from the solution.&lt;br/&gt;&lt;br/&gt;Please refer to the &lt;a href=&quot;http://download.microsoft.com/download/4/7/B/47BEC899-4F86-4C31-8B67-5B729D26A589/Microsoft_Dynamics_AX_2012_Licensing_Guide_July_2012_Customer_Edition.pdf&quot;&gt;Microsoft Dynamics AX 2012 Licensing Guide&lt;/a&gt; for more information. </Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">Software Assurance Benefits</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">What Software Assurance benefits are available for Microsoft Dynamics AX 2012?  </Data></Cell>
+    <Cell><Data ss:Type="String">&lt;a href=&quot;http://www.microsoft.com/licensing/software-assurance/default.aspx&quot;&gt; Software Assurance&lt;/a&gt; for Microsoft Dynamics AX 2012 offers a wide range of benefits, such as New Version Rights, 24x7 Problem Resolution Support, and access to the Microsoft Dynamics CustomerSource.  CustomerSource provides access to Knowledge Base for Microsoft Dynamics, online training, and other virtual resources for Microsoft Dynamics 24 hours a day. All licenses newly acquired through the Enterprise Agreement and Enrollment for Education Solutions programs include Software Assurance.&lt;br/&gt;&lt;br/&gt;Software Assurance benefits are also specified in the &lt;a href=&quot;http://www.microsoft.com/licensing/about-licensing/product-licensing.aspx#tab=1&quot;&gt;Product Use Rights&lt;/a&gt; and &lt;a href=&quot;http://www.microsoft.com/licensing/about-licensing/product-licensing.aspx#tab=2&quot;&gt;Product List&lt;/a&gt;. </Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">Where can I find a full list of Software Assurance benefits?</Data></Cell>
+    <Cell><Data ss:Type="String">Please refer to the &lt;a href=&quot;http://www.microsoft.com/licensing/software-assurance/default.aspx&quot;&gt;Software Assurance page&lt;/a&gt; on Microsoft.com for an overview of available Software Assurance benefits. The specific Software Assurance benefits to which you are entitled based on your Volume Licensing agreement and licenses purchased are specified in the &lt;a href=&quot;http://www.microsoft.com/licensing/about-licensing/product-licensing.aspx#tab=1&quot;&gt;Product Use Rights&lt;/a&gt; and &lt;a href=&quot;http://www.microsoft.com/licensing/about-licensing/product-licensing.aspx#tab=2&quot;&gt;Product List&lt;/a&gt;. &#10;</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">Pricing, Download and Activation</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Where do I obtain pricing and part numbers?</Data></Cell>
+    <Cell><Data ss:Type="String">If you are purchasing through Microsoft Volume Licensing, you can obtain pricing and part numbers from your Microsoft representative or a &lt;a href=&quot;http://www.microsoft.com/licensing/how-to-buy/default.aspx&quot;&gt;Microsoft Large Account Reseller&lt;/a&gt;.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">Where do I download my software and license keys for activation?</Data></Cell>
+    <Cell><Data ss:Type="String">After purchasing through Microsoft Volume Licensing, you will receive access to the &lt;a href=&quot;https://www.microsoft.com/licensing/servicecenter/default.aspx&quot;&gt;Volume Licensing Service Center&lt;/a&gt;. VLSC provides easy access to product and key downloads plus the ability to access all licensing information in one location, view relationship and license summary details, review the status of enrollments, as well as activate and view Software Assurance benefits. Once your volume Licensing Agreement is processed, you will receive further guidance on registration and VLSC features. Refer to the &lt;a href=&quot;http://www.microsoft.com/en-us/download/details.aspx?displaylang=en&amp;id=10585&quot;&gt;VLSC User Guide&lt;a/&gt; for simple step-by-step instructions.&lt;br/&gt;&lt;br/&gt;If you purchased through Business Value Licensing, you can download your software via &lt;a href=&quot;http://www.microsoft.com/dynamics/en/us/customersource.aspx&quot;&gt;CustomerSource&lt;/a&gt;. </Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Existing Volume Licensing Customer</Data></Cell>
+    <Cell><Data ss:Type="String">Licensing Programs</Data></Cell>
+    <Cell><Data ss:Type="String">Enterprise Agreement</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Microsoft Dynamics AX 2012 is available through the EA. Contact your &lt;a href=&quot;http://www.microsoft.com/licensing/how-to-buy/default.aspx&quot;&gt;Microsoft Large Account Reseller&lt;/a&gt; to add Microsoft Dynamics AX to your EA.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="3"><Data ss:Type="String">Enrollment for Education Solutions (CASA+EES contract option)</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Microsoft Dynamics AX 2012 is available through the Enrollment for Education Solutions (CASA+EES contract option). Contact your &lt;a href=&quot;http://www.microsoft.com/licensing/how-to-buy/default.aspx&quot;&gt;Microsoft Large Account Reseller&lt;/a&gt; to add Microsoft Dynamics AX to your EES.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="3"><Data ss:Type="String">Other Volume Licensing Programs</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Microsoft Dynamics AX 2012 licenses are available only through the &lt;a href=&quot;http://www.microsoft.com/licensing/licensing-options/enterprise.aspx&quot;&gt;Enterprise Agreement&lt;/a&gt; and &lt;a href=&quot;http://www.microsoft.com/education/en-us/buy/licensing/Pages/enrollmentforeducationsolutions.aspx&quot;&gt;Enrollment for Education Solutions CASA+EES&lt;/a&gt; contract option. If your organization does not qualify to purchase through either of those programs, you can acquire Microsoft Dynamics AX 2012 through the Business Value Licensing program. Contact a &lt;a href=&quot;http://www.pinpoint.microsoft.com&quot;&gt; Microsoft Dynamics Partner&lt;/a&gt; for more information.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">Licensing Model</Data></Cell>
+    <Cell><Data ss:Type="String">Server + CAL</Data></Cell>
+    <Cell><Data ss:Type="String">How do I license servers in the Server + CAL model?  </Data></Cell>
+    <Cell><Data ss:Type="String">Microsoft Dynamics AX 2012 functionality is licensed through the server license. You must acquire a server license for each instance of the software that will run in a physical or virtual operating system environment. There is one edition of Microsoft Dynamics AX 2012, which includes complete functionality.&lt;br/&gt;&lt;br/&gt;Please refer to the &lt;a href=&quot;http://www.microsoft.com/licensing/about-licensing/product-licensing.aspx&quot;&gt;Product Use Rights&lt;/a&gt; document for further details. </Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">How do I license users and devices?</Data></Cell>
+    <Cell><Data ss:Type="String">Users and devices require Client Access Licenses (CALs) to access licensed servers. Each user CAL permits one user, using any device, to access instances of the server software on a licensed server. Each device CAL permits one device, used by any user, to access instances of the server software on a licensed server. A combination of device and user CALs may be utilized.&lt;br/&gt;&lt;br/&gt;Please refer to the &lt;a href=&quot;http://www.microsoft.com/licensing/about-licensing/product-licensing.aspx&quot;&gt;Product Use Rights&lt;/a&gt; document for further details.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">How do I license external users?</Data></Cell>
+    <Cell><Data ss:Type="String">External users do not require Microsoft Dynamics AX 2012 CALs to access any Dynamics AX 2012 licensed server. External users are individuals who are neither your or your affiliates’ employees, onsite contractors or onsite agents.&lt;br/&gt;&lt;br/&gt;Please refer to the &lt;a href=&quot;http://www.microsoft.com/licensing/about-licensing/product-licensing.aspx&quot;&gt;Product Use Rights document&lt;a/&gt; for further details.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">How many CAL levels are offered to license users and devices?</Data></Cell>
+    <Cell><Data ss:Type="String">Dynamics AX 2012 is available with four levels of CALs (Self Serve, Task, Functional, and Enterprise); each CAL grants an increasingly wider spectrum of use rights for accessing functionality, inclusive of the rights granted for any lower-level CAL. This provides licensing flexibility, allowing users to derive incremental value from the solution.&lt;br/&gt;&lt;br/&gt;Please refer to the &lt;a href=&quot;http://download.microsoft.com/download/4/7/B/47BEC899-4F86-4C31-8B67-5B729D26A589/Microsoft_Dynamics_AX_2012_Licensing_Guide_July_2012_Customer_Edition.pdf&quot;&gt;Microsoft Dynamics AX 2012 Licensing Guide&lt;/a&gt; for more information. </Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">Software Assurance Benefits</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">What Software Assurance benefits are available for Microsoft Dynamics AX 2012?  </Data></Cell>
+    <Cell><Data ss:Type="String">&lt;a href=&quot;http://www.microsoft.com/licensing/software-assurance/default.aspx&quot;&gt; Software Assurance&lt;/a&gt; for Microsoft Dynamics AX 2012 offers a wide range of benefits, such as New Version Rights, 24x7 Problem Resolution Support, and access to the Microsoft Dynamics CustomerSource.  CustomerSource provides access to Knowledge Base for Microsoft Dynamics, online training, and other virtual resources for Microsoft Dynamics 24 hours a day. All licenses newly acquired through the Enterprise Agreement and Enrollment for Education Solutions programs include Software Assurance.&lt;br/&gt;&lt;br/&gt;Software Assurance benefits are also specified in the &lt;a href=&quot;http://www.microsoft.com/licensing/about-licensing/product-licensing.aspx#tab=1&quot;&gt;Product Use Rights&lt;/a&gt; and &lt;a href=&quot;http://www.microsoft.com/licensing/about-licensing/product-licensing.aspx#tab=2&quot;&gt;Product List&lt;/a&gt;. </Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">Where can I find a full list of Software Assurance benefits?</Data></Cell>
+    <Cell><Data ss:Type="String">Please refer to the &lt;a href=&quot;http://www.microsoft.com/licensing/software-assurance/default.aspx&quot;&gt;Software Assurance page&lt;/a&gt; on Microsoft.com for an overview of available Software Assurance benefits. The specific Software Assurance benefits to which you are entitled based on your Volume Licensing agreement and licenses purchased are specified in the &lt;a href=&quot;http://www.microsoft.com/licensing/about-licensing/product-licensing.aspx#tab=1&quot;&gt;Product Use Rights&lt;/a&gt; and &lt;a href=&quot;http://www.microsoft.com/licensing/about-licensing/product-licensing.aspx#tab=2&quot;&gt;Product List&lt;/a&gt;. &#10;</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">Pricing, Download and Activation</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Where do I obtain pricing and part numbers?</Data></Cell>
+    <Cell><Data ss:Type="String">If you are purchasing through Microsoft Volume Licensing, you can obtain pricing and part numbers from your Microsoft representative or a &lt;a href=&quot;http://www.microsoft.com/licensing/how-to-buy/default.aspx&quot;&gt;Microsoft Large Account Reseller&lt;/a&gt;.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">Where do I download my software and access license keys for activation?</Data></Cell>
+    <Cell><Data ss:Type="String">You can download products and find license keys via the &lt;a href=&quot;https://www.microsoft.com/licensing/servicecenter/default.aspx&quot;&gt;Volume Licensing Service Center&lt;/a&gt;.  Refer to the &lt;a href=&quot;http://www.microsoft.com/en-us/download/details.aspx?displaylang=en&amp;id=10585&quot;&gt;VLSC User Guide&lt;a/&gt; for simple step-by-step instructions.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Product Information</Data></Cell>
+    <Cell><Data ss:Type="String">Editions</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">How many editions of Microsoft Dynamics AX 2012 are available?</Data></Cell>
+    <Cell><Data ss:Type="String">Microsoft Dynamics AX 2012 is offered in one edition, which features full functionality. Visit the &lt;a href=&quot;http://www.microsoft.com/en-us/dynamics/erp-ax-overview.aspx&quot;&gt;product overview page&lt;/a&gt; for more information about functionality and features. </Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">How do I license Microsoft Dynamics AX 2012?</Data></Cell>
+    <Cell><Data ss:Type="String">Microsoft Dynamics AX 2012 is licensed under the Server + CAL licensing model. You need a server license for each instance of the software you will run and a Client Access License (CAL) for each user or device accessing the licensed server. Please refer to the &lt;a href=&quot;http://download.microsoft.com/download/4/7/B/47BEC899-4F86-4C31-8B67-5B729D26A589/Microsoft_Dynamics_AX_2012_Licensing_Guide_July_2012_Customer_Edition.pdf&quot;&gt;Microsoft Dynamics AX 2012 Licensing Guide&lt;a/&gt; for more information. </Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">Localizations and Translations </Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Please refer to the Microsoft Dynamics AX product page for a &lt;a href=&quot;http://www.microsoft.com/en-us/dynamics/products/ax-availability.aspx&quot;&gt;list of localizations&lt;/a&gt; (adapting software to meet country specific laws and regulations) and language translations for currently supported versions of Dynamics AX.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">System Requirements</Data></Cell>
+    <Cell><Data ss:Type="String">Hardware Requirements</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">To learn about the hardware requirements, refer to the &lt;a href=&quot;http://www.microsoft.com/en-us/download/details.aspx?id=11094&quot;&gt;Microsoft Dynamics System Requirements document&lt;/a&gt;.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="3"><Data ss:Type="String">Software Dependencies</Data></Cell>
+    <Cell><Data ss:Type="String">What additional Microsoft software is required to run the Microsoft Dynamics AX solution?</Data></Cell>
+    <Cell><Data ss:Type="String">To learn about additional software requirements, refer to the &lt;a href=&quot;http://www.microsoft.com/en-us/download/details.aspx?id=11094&quot;&gt;Microsoft Dynamics System Requirements&lt;/a&gt; document. Licenses for additional software that may be required are not included with Microsoft Dynamics AX licenses. They must be acquired separately in accordance with licensing models for each respective product, and may be purchased through traditional &lt;a href=&quot;www.microsoft.com/licensing&quot;&gt;Microsoft Volume Licensing channels&lt;/a&gt;. </Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Selected/>
+   <TopRowVisible>9</TopRowVisible>
+   <LeftColumnVisible>1</LeftColumnVisible>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>29</ActiveRow>
+     <ActiveCol>4</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="Sheet2">
+  <Table ss:ExpandedColumnCount="1" ss:ExpandedRowCount="1" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Row ss:AutoFitHeight="0"/>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Unsynced/>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="Sheet3">
+  <Table ss:ExpandedColumnCount="1" ss:ExpandedRowCount="1" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Row ss:AutoFitHeight="0"/>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Unsynced/>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

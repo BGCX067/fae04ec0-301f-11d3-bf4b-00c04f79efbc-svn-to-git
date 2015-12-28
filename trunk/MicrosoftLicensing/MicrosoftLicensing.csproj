@@ -1,0 +1,712 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{91CA5E94-41F2-4426-B5A0-5A71401C83D9}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Licensing</RootNamespace>
+    <AssemblyName>Licensing</AssemblyName>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <UseIISExpress>false</UseIISExpress>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="checkserver.aspx" />
+    <Content Include="Default.aspx" />
+    <Content Include="Global.asax" />
+    <Content Include="global\licensing\PublishingImagess\backgrounds\table\info-arrow.html" />
+    <Content Include="global\licensing\PublishingImages\about-licensing\btn-contact-sales.jpg" />
+    <Content Include="global\licensing\PublishingImages\about-licensing\btn-get-quote.jpg" />
+    <Content Include="global\licensing\PublishingImages\about-licensing\btn-view-datasheet.jpg" />
+    <Content Include="global\licensing\PublishingImages\about-licensing\dyanmics-1.png" />
+    <Content Include="global\licensing\PublishingImages\about-licensing\dyanmics-2.png" />
+    <Content Include="global\licensing\PublishingImages\about-licensing\dyanmics-3.png" />
+    <Content Include="global\licensing\PublishingImages\about-licensing\dyanmics-4.png" />
+    <Content Include="global\licensing\PublishingImages\assurance_s.jpg" />
+    <Content Include="global\licensing\PublishingImages\backgrounds\banners\assurance_s.jpg" />
+    <Content Include="global\licensing\PublishingImages\backgrounds\banners\banner-how-to-license.png" />
+    <Content Include="global\licensing\PublishingImages\backgrounds\banners\buyers-guide-bg.png" />
+    <Content Include="global\licensing\PublishingImages\backgrounds\banners\contact-us.jpg" />
+    <Content Include="global\licensing\PublishingImages\backgrounds\banners\hero-accreditation.png" />
+    <Content Include="global\licensing\PublishingImages\backgrounds\banners\hero-community.png" />
+    <Content Include="global\licensing\PublishingImages\backgrounds\banners\hero-ea.png" />
+    <Content Include="global\licensing\PublishingImages\backgrounds\banners\hero-enterprise_narrow.png" />
+    <Content Include="global\licensing\PublishingImages\backgrounds\banners\hero-financing_narrow.png" />
+    <Content Include="global\licensing\PublishingImages\backgrounds\banners\hero-planning-services.png" />
+    <Content Include="global\licensing\PublishingImages\backgrounds\banners\hero-valueofvl_narrow.png" />
+    <Content Include="global\licensing\PublishingImages\backgrounds\banners\industries.png" />
+    <Content Include="global\licensing\PublishingImages\backgrounds\banners\manage-my-agreements.jpg" />
+    <Content Include="global\licensing\PublishingImages\backgrounds\banners\onlineServices.jpg" />
+    <Content Include="global\licensing\PublishingImages\backgrounds\banners\open.png" />
+    <Content Include="global\licensing\PublishingImages\backgrounds\banners\organizations.png" />
+    <Content Include="global\licensing\PublishingImages\backgrounds\banners\product-licensing-overview.jpg" />
+    <Content Include="global\licensing\PublishingImages\backgrounds\banners\sa-video-header-bg.jpg" />
+    <Content Include="global\licensing\PublishingImages\backgrounds\banners\select.png" />
+    <Content Include="global\licensing\PublishingImages\backgrounds\banner\assurance_s.html" />
+    <Content Include="global\licensing\PublishingImages\backgrounds\buttons\btn_green.png" />
+    <Content Include="global\licensing\PublishingImages\backgrounds\buttons\btn_round_green-on.gif" />
+    <Content Include="global\licensing\PublishingImages\backgrounds\buttons\btn_round_green.gif" />
+    <Content Include="global\licensing\PublishingImages\backgrounds\buttons\play_btn_sm.png" />
+    <Content Include="global\licensing\PublishingImages\backgrounds\filter\bottom-bkg.jpg" />
+    <Content Include="global\licensing\PublishingImages\backgrounds\filter\middle-bkg.jpg" />
+    <Content Include="global\licensing\PublishingImages\backgrounds\filter\top-bkg.jpg" />
+    <Content Include="global\licensing\PublishingImages\backgrounds\global\border-snippit.html" />
+    <Content Include="global\licensing\PublishingImages\backgrounds\global\divider.gif" />
+    <Content Include="global\licensing\PublishingImages\backgrounds\global\faded_dots_bkg.gif" />
+    <Content Include="global\licensing\PublishingImages\backgrounds\global\shadow.png" />
+    <Content Include="global\licensing\PublishingImages\backgrounds\global\vert_divider.gif" />
+    <Content Include="global\licensing\PublishingImages\backgrounds\icons\green_arrow_dotted.gif" />
+    <Content Include="global\licensing\PublishingImages\backgrounds\icons\icon-minus-blue.png" />
+    <Content Include="global\licensing\PublishingImages\backgrounds\icons\icon-plus-blue.png" />
+    <Content Include="global\licensing\PublishingImages\backgrounds\icons\icon-sprite.png" />
+    <Content Include="global\licensing\PublishingImages\backgrounds\icons\icon_wmv.png" />
+    <Content Include="global\licensing\PublishingImages\backgrounds\navigation\bottom-bkg.gif" />
+    <Content Include="global\licensing\PublishingImages\backgrounds\navigation\top-bkg.gif" />
+    <Content Include="global\licensing\PublishingImages\backgrounds\quote\divline.gif" />
+    <Content Include="global\licensing\PublishingImages\backgrounds\quote\quote1.gif" />
+    <Content Include="global\licensing\PublishingImages\backgrounds\quote\quote2.gif" />
+    <Content Include="global\licensing\PublishingImages\backgrounds\secondary\poll_bkg.gif" />
+    <Content Include="global\licensing\PublishingImages\backgrounds\secondary\rail_gradient_divider.jpg" />
+    <Content Include="global\licensing\PublishingImages\backgrounds\secondary\summary-bottom_bkg.gif" />
+    <Content Include="global\licensing\PublishingImages\backgrounds\secondary\summary_bkg.gif" />
+    <Content Include="global\licensing\PublishingImages\backgrounds\silverlight\sl_dlvl_arrow.jpg" />
+    <Content Include="global\licensing\PublishingImages\backgrounds\silverlight\sl_dlvl_bg.jpg" />
+    <Content Include="global\licensing\PublishingImages\backgrounds\table\dot-green.png" />
+    <Content Include="global\licensing\PublishingImages\backgrounds\table\dot-grey.png" />
+    <Content Include="global\licensing\PublishingImages\backgrounds\table\header-bkg.gif" />
+    <Content Include="global\licensing\PublishingImages\backgrounds\tabs\bottom-bkg.gif" />
+    <Content Include="global\licensing\PublishingImages\backgrounds\tabs\divider.jpg" />
+    <Content Include="global\licensing\PublishingImages\backgrounds\tabs\highlight_bottom.png" />
+    <Content Include="global\licensing\PublishingImages\backgrounds\tabs\highlight_bottom_200.png" />
+    <Content Include="global\licensing\PublishingImages\backgrounds\tabs\highlight_top.png" />
+    <Content Include="global\licensing\PublishingImages\backgrounds\tabs\highlight_top_200.png" />
+    <Content Include="global\licensing\PublishingImages\backgrounds\tabs\Left_Rail_bg.jpg" />
+    <Content Include="global\licensing\PublishingImages\backgrounds\tabs\Left_Rail_bg_200.jpg" />
+    <Content Include="global\licensing\PublishingImages\backgrounds\tabs\Left_Rail_sm_btm.jpg" />
+    <Content Include="global\licensing\PublishingImages\backgrounds\tabs\Left_Rail_sm_btm_200.jpg" />
+    <Content Include="global\licensing\PublishingImages\backgrounds\tabs\middle-bkg.gif" />
+    <Content Include="global\licensing\PublishingImages\backgrounds\tabs\tab_bkg_585.jpg" />
+    <Content Include="global\licensing\PublishingImages\backgrounds\tabs\top-bkg.gif" />
+    <Content Include="global\licensing\PublishingImages\backgrounds\tabs\white_tab_left.jpg" />
+    <Content Include="global\licensing\PublishingImages\backgrounds\tabs\white_tab_right.jpg" />
+    <Content Include="global\licensing\PublishingImages\bg_shade_2.png" />
+    <Content Include="global\licensing\PublishingImages\blue_arrow.png" />
+    <Content Include="global\licensing\PublishingImages\bl_corner.png" />
+    <Content Include="global\licensing\PublishingImages\body_bkg.jpg" />
+    <Content Include="global\licensing\PublishingImages\bottom-bkg.png" />
+    <Content Include="global\licensing\PublishingImages\box_LP.png" />
+    <Content Include="global\licensing\PublishingImages\br_corner.png" />
+    <Content Include="global\licensing\PublishingImages\btn_learn_more.png" />
+    <Content Include="global\licensing\PublishingImages\buyers-arrow-bullet.png" />
+    <Content Include="global\licensing\PublishingImages\b_line_shade_2.png" />
+    <Content Include="global\licensing\PublishingImages\center-bkg.gif" />
+    <Content Include="global\licensing\PublishingImages\chart_ea_esa.png" />
+    <Content Include="global\licensing\PublishingImages\chart_ov_ovs.png" />
+    <Content Include="global\licensing\PublishingImages\chart_sa_migration.png" />
+    <Content Include="global\licensing\PublishingImages\checkmark-blk-circle-asterix1.gif" />
+    <Content Include="global\licensing\PublishingImages\checkmark-blk-circle-asterix2.gif" />
+    <Content Include="global\licensing\PublishingImages\checkmark-blk-circle-metro.gif" />
+    <Content Include="global\licensing\PublishingImages\checkmark_blk.gif" />
+    <Content Include="global\licensing\PublishingImages\checkmark_grn.gif" />
+    <Content Include="global\licensing\PublishingImages\checkmark_grn_2asterix_narrow.gif" />
+    <Content Include="global\licensing\PublishingImages\checkmark_grn_asterix.gif" />
+    <Content Include="global\licensing\PublishingImages\checkmark_grn_asterix_narrow.gif" />
+    <Content Include="global\licensing\PublishingImages\checkmark_grn_narrow.gif" />
+    <Content Include="global\licensing\PublishingImages\checkmark_grn_sm.gif" />
+    <Content Include="global\licensing\PublishingImages\content_box_bottom.jpg" />
+    <Content Include="global\licensing\PublishingImages\content_box_mid.jpg" />
+    <Content Include="global\licensing\PublishingImages\dark-cell-btm.jpg" />
+    <Content Include="global\licensing\PublishingImages\dax2012-video-play-icon.png" />
+    <Content Include="global\licensing\PublishingImages\divider.jpg" />
+    <Content Include="global\licensing\PublishingImages\dot-green.gif" />
+    <Content Include="global\licensing\PublishingImages\dot-grey.gif" />
+    <Content Include="global\licensing\PublishingImages\first-row-bkg.html" />
+    <Content Include="global\licensing\PublishingImages\green_arrow_dotted.gif" />
+    <Content Include="global\licensing\PublishingImages\green_bullet.gif" />
+    <Content Include="global\licensing\PublishingImages\green_bullet_small.gif" />
+    <Content Include="global\licensing\PublishingImages\hdr_Software_Assurance.png" />
+    <Content Include="global\licensing\PublishingImages\header-bkg.gif" />
+    <Content Include="global\licensing\PublishingImages\homepage\icon-arrow-circle-16px.png" />
+    <Content Include="global\licensing\PublishingImages\homepage\icon-arrow.png" />
+    <Content Include="global\licensing\PublishingImages\homepage\icon-blog-story.png" />
+    <Content Include="global\licensing\PublishingImages\homepage\icon-laptop-24px.png" />
+    <Content Include="global\licensing\PublishingImages\homepage\icon-office-24px.png" />
+    <Content Include="global\licensing\PublishingImages\homepage\icon-places.png" />
+    <Content Include="global\licensing\PublishingImages\homepage\icon-server-24px.png" />
+    <Content Include="global\licensing\PublishingImages\homepage\icon-windows-24px.png" />
+    <Content Include="global\licensing\PublishingImages\homepage\icon-windows-lrg.png" />
+    <Content Include="global\licensing\PublishingImages\homepage\marquee-enterprise.jpg" />
+    <Content Include="global\licensing\PublishingImages\homepage\marquee-enterprise.png" />
+    <Content Include="global\licensing\PublishingImages\homepage\marquee-why-licensing.jpg" />
+    <Content Include="global\licensing\PublishingImages\homepage\msvl_homepage-marquee-consumerization-of-it.jpg" />
+    <Content Include="global\licensing\PublishingImages\homepage\msvl_homepage_tab1.png" />
+    <Content Include="global\licensing\PublishingImages\homepage\msvl_homepage_tab2.png" />
+    <Content Include="global\licensing\PublishingImages\homepage\msvl_homepage_tab3.png" />
+    <Content Include="global\licensing\PublishingImages\homepage\msvl_homepage_tab4.png" />
+    <Content Include="global\licensing\PublishingImages\homepage\msvl_homepage_tab5.png" />
+    <Content Include="global\licensing\PublishingImages\homepage\tile-fewerthan5.png" />
+    <Content Include="global\licensing\PublishingImages\homepage\tile-midsize.png" />
+    <Content Include="global\licensing\PublishingImages\homepage\tile-small.png" />
+    <Content Include="global\licensing\PublishingImages\homepage\video-bg.jpg" />
+    <Content Include="global\licensing\PublishingImages\homepage\video-Office365-hp.png" />
+    <Content Include="global\licensing\PublishingImages\homepage\video-online-services.png" />
+    <Content Include="global\licensing\PublishingImages\homepage\video-ws2012-03.png" />
+    <Content Include="global\licensing\PublishingImages\how-to-buy\chart_license_financing.jpg" />
+    <Content Include="global\licensing\PublishingImages\how-to-buy\chart_total_solutions.jpg" />
+    <Content Include="global\licensing\PublishingImages\how-to-buy\Extended_Payment_Terms_Graphic.jpg" />
+    <Content Include="global\licensing\PublishingImages\how-to-buy\icon_es.png" />
+    <Content Include="global\licensing\PublishingImages\how-to-buy\icon_faq.png" />
+    <Content Include="global\licensing\PublishingImages\how-to-buy\icon_sl.png" />
+    <Content Include="global\licensing\PublishingImages\how-to-buy\icon_tp.png" />
+    <Content Include="global\licensing\PublishingImages\how-volume-licensing-works.jpg" />
+    <Content Include="global\licensing\PublishingImages\icon-arrow-circle-16px.png" />
+    <Content Include="global\licensing\PublishingImages\icon-chat-blue-24px.png" />
+    <Content Include="global\licensing\PublishingImages\icon-chat.png" />
+    <Content Include="global\licensing\PublishingImages\icon-handshake.png" />
+    <Content Include="global\licensing\PublishingImages\icon-laptop.png" />
+    <Content Include="global\licensing\PublishingImages\icon-sprite.png" />
+    <Content Include="global\licensing\PublishingImages\last-row-bkg.png" />
+    <Content Include="global\licensing\PublishingImages\light-cell-btm.jpg" />
+    <Content Include="global\licensing\PublishingImages\loading.gif" />
+    <Content Include="global\licensing\PublishingImages\logo-sc2012-video.png" />
+    <Content Include="global\licensing\PublishingImages\logo-sqlsvr2012-video.png" />
+    <Content Include="global\licensing\PublishingImages\logo-ws2012-video.png" />
+    <Content Include="global\licensing\PublishingImages\logo_inside.gif" />
+    <Content Include="global\licensing\PublishingImages\logo_microsoft.gif" />
+    <Content Include="global\licensing\PublishingImages\l_bottomline_shade_2.png" />
+    <Content Include="global\licensing\PublishingImages\l_line_shade_2.png" />
+    <Content Include="global\licensing\PublishingImages\mma-downloads-125w.png" />
+    <Content Include="global\licensing\PublishingImages\mma-howto-125w.png" />
+    <Content Include="global\licensing\PublishingImages\mma-msdn-125w.png" />
+    <Content Include="global\licensing\PublishingImages\mma-permissions-125w.png" />
+    <Content Include="global\licensing\PublishingImages\mma-registering-125w.png" />
+    <Content Include="global\licensing\PublishingImages\mma-sa-125w.png" />
+    <Content Include="global\licensing\PublishingImages\ms-vl-blog.png" />
+    <Content Include="global\licensing\PublishingImages\msvl_cloud_scenario1.jpg" />
+    <Content Include="global\licensing\PublishingImages\msvl_cloud_scenario2.jpg" />
+    <Content Include="global\licensing\PublishingImages\msvl_cloud_scenario3.jpg" />
+    <Content Include="global\licensing\PublishingImages\msvl_Consumerization_scenario1.jpg" />
+    <Content Include="global\licensing\PublishingImages\msvl_Consumerization_scenario2.jpg" />
+    <Content Include="global\licensing\PublishingImages\msvl_Consumerization_scenario3.jpg" />
+    <Content Include="global\licensing\PublishingImages\overlay\border-bottom-center.png" />
+    <Content Include="global\licensing\PublishingImages\overlay\border-bottom-left.png" />
+    <Content Include="global\licensing\PublishingImages\overlay\border-bottom-right.png" />
+    <Content Include="global\licensing\PublishingImages\overlay\border-left.png" />
+    <Content Include="global\licensing\PublishingImages\overlay\border-right.png" />
+    <Content Include="global\licensing\PublishingImages\overlay\border-top-center.png" />
+    <Content Include="global\licensing\PublishingImages\overlay\border-top-left.png" />
+    <Content Include="global\licensing\PublishingImages\overlay\border-top-right.png" />
+    <Content Include="global\licensing\PublishingImages\overlay\controls-close.png" />
+    <Content Include="global\licensing\PublishingImages\overlay\controls.png" />
+    <Content Include="global\licensing\PublishingImages\overlay\loading.gif" />
+    <Content Include="global\licensing\PublishingImages\overlay\overlay-bg.png" />
+    <Content Include="global\licensing\PublishingImages\pagination.png" />
+    <Content Include="global\licensing\PublishingImages\product-activation-result.gif" />
+    <Content Include="global\licensing\PublishingImages\products-office.png" />
+    <Content Include="global\licensing\PublishingImages\products-windows8.png" />
+    <Content Include="global\licensing\PublishingImages\PUR_lrg_screen.png" />
+    <Content Include="global\licensing\PublishingImages\quote-bgrd.png" />
+    <Content Include="global\licensing\PublishingImages\right-rail-box-bottom.gif" />
+    <Content Include="global\licensing\PublishingImages\right-rail-box-top.png" />
+    <Content Include="global\licensing\PublishingImages\round-box-bottom-bkg-sm.gif" />
+    <Content Include="global\licensing\PublishingImages\round-box-bottom-bkg.gif" />
+    <Content Include="global\licensing\PublishingImages\round-box-top-bkg-sm.png" />
+    <Content Include="global\licensing\PublishingImages\round-box-top-bkg.png" />
+    <Content Include="global\licensing\PublishingImages\r_bottomline_shade_2.png" />
+    <Content Include="global\licensing\PublishingImages\r_line_shade_2.png" />
+    <Content Include="global\licensing\PublishingImages\SA-Video_Bas.jpg" />
+    <Content Include="global\licensing\PublishingImages\SA-Video_Included.jpg" />
+    <Content Include="global\licensing\PublishingImages\SA-Video_planning.jpg" />
+    <Content Include="global\licensing\PublishingImages\SA-Video_started.jpg" />
+    <Content Include="global\licensing\PublishingImages\Search_icon.gif" />
+    <Content Include="global\licensing\PublishingImages\shadow.gif" />
+    <Content Include="global\licensing\PublishingImages\SQL2012_Editions.png" />
+    <Content Include="global\licensing\PublishingImages\tl_corner.png" />
+    <Content Include="global\licensing\PublishingImages\top-bar-bkg.png" />
+    <Content Include="global\licensing\PublishingImages\top-bkg.png" />
+    <Content Include="global\licensing\PublishingImages\transition_bg.jpg" />
+    <Content Include="global\licensing\PublishingImages\tr_corner.png" />
+    <Content Include="global\licensing\PublishingImages\twitter.png" />
+    <Content Include="global\licensing\PublishingImages\t_line_shade_2.png" />
+    <Content Include="global\licensing\PublishingImages\video-container-bottom.gif" />
+    <Content Include="global\licensing\PublishingImages\video-container-top.png" />
+    <Content Include="global\licensing\PublishingImages\video-steria.png" />
+    <Content Include="global\licensing\PublishingImages\video-thumb-hotel_sm.jpg" />
+    <Content Include="global\licensing\PublishingImages\video-thumb-panama_sm.jpg" />
+    <Content Include="global\licensing\PublishingImages\video-thumb-steria-sm.png" />
+    <Content Include="global\licensing\PublishingImages\video-thumb-ucf_sm.jpg" />
+    <Content Include="global\licensing\PublishingImages\video_Office_365.png" />
+    <Content Include="global\licensing\PublishingImages\web.gif" />
+    <Content Include="global\licensing\RenderingAssets\collapsingmenu.js" />
+    <Content Include="global\licensing\RenderingAssets\commonScripts.js" />
+    <Content Include="global\licensing\RenderingAssets\core.js" />
+    <Content Include="global\licensing\RenderingAssets\dax2012\css\widget.css" />
+    <Content Include="global\licensing\RenderingAssets\dax2012\data\dax-aug-28.xml" />
+    <Content Include="global\licensing\RenderingAssets\dax2012\images\btn-back-no-text.png" />
+    <Content Include="global\licensing\RenderingAssets\dax2012\images\btn-return-no-text.png" />
+    <Content Include="global\licensing\RenderingAssets\dax2012\images\dynamic-logo.png" />
+    <Content Include="global\licensing\RenderingAssets\dax2012\images\lca-email.png" />
+    <Content Include="global\licensing\RenderingAssets\dax2012\images\lca-print.png" />
+    <Content Include="global\licensing\RenderingAssets\dax2012\images\print-logo.png" />
+    <Content Include="global\licensing\RenderingAssets\dax2012\images\volume-licensing.png" />
+    <Content Include="global\licensing\RenderingAssets\dax2012\js\app.js" />
+    <Content Include="global\licensing\RenderingAssets\dax2012\js\dataReader.js" />
+    <Content Include="global\licensing\RenderingAssets\dax2012\js\jquery-1.7.1.min.js" />
+    <Content Include="global\licensing\RenderingAssets\dax2012\js\jquery-ui.min.js" />
+    <Content Include="global\licensing\RenderingAssets\dax2012\js\jquery.easing.1.3.js" />
+    <Content Include="global\licensing\RenderingAssets\dax2012\js\jquery.printElement.min.js" />
+    <Content Include="global\licensing\RenderingAssets\dax2012\js\renderer.js" />
+    <Content Include="global\licensing\RenderingAssets\homepage\mt_home.css" />
+    <Content Include="global\licensing\RenderingAssets\jquery.js" />
+    <Content Include="global\licensing\RenderingAssets\mtagconfig.js" />
+    <Content Include="global\licensing\RenderingAssets\mt_styles.css" />
+    <Content Include="global\licensing\RenderingAssets\Office2013\css\widget.css" />
+    <Content Include="global\licensing\RenderingAssets\Office2013\data\office2013.xml" />
+    <Content Include="global\licensing\RenderingAssets\Office2013\images\btn-back-no-text.png" />
+    <Content Include="global\licensing\RenderingAssets\Office2013\images\btn-return-no-text.png" />
+    <Content Include="global\licensing\RenderingAssets\Office2013\images\discovery-txt.png" />
+    <Content Include="global\licensing\RenderingAssets\Office2013\images\lca-email.png" />
+    <Content Include="global\licensing\RenderingAssets\Office2013\images\lca-print.png" />
+    <Content Include="global\licensing\RenderingAssets\Office2013\images\office-logo.png" />
+    <Content Include="global\licensing\RenderingAssets\Office2013\images\print-logo.png" />
+    <Content Include="global\licensing\RenderingAssets\Office2013\images\volume-licensing.png" />
+    <Content Include="global\licensing\RenderingAssets\Office2013\js\app.js" />
+    <Content Include="global\licensing\RenderingAssets\Office2013\js\dataReader.js" />
+    <Content Include="global\licensing\RenderingAssets\Office2013\js\jquery-1.7.1.min.js" />
+    <Content Include="global\licensing\RenderingAssets\Office2013\js\jquery-ui.min.js" />
+    <Content Include="global\licensing\RenderingAssets\Office2013\js\jquery.easing.1.3.js" />
+    <Content Include="global\licensing\RenderingAssets\Office2013\js\jquery.printElement.min.js" />
+    <Content Include="global\licensing\RenderingAssets\Office2013\js\renderer.js" />
+    <Content Include="global\licensing\RenderingAssets\overlay\overlay.css" />
+    <Content Include="global\licensing\RenderingAssets\overlay\overlay.js" />
+    <Content Include="global\licensing\RenderingAssets\poll.js" />
+    <Content Include="global\licensing\RenderingAssets\randomquote.js" />
+    <Content Include="global\licensing\RenderingAssets\SC2012\css\lca.css" />
+    <Content Include="global\licensing\RenderingAssets\SC2012\images\back.png" />
+    <Content Include="global\licensing\RenderingAssets\SC2012\images\background.jpg" />
+    <Content Include="global\licensing\RenderingAssets\SC2012\images\button_off.png" />
+    <Content Include="global\licensing\RenderingAssets\SC2012\images\button_on.png" />
+    <Content Include="global\licensing\RenderingAssets\SC2012\images\lca-email.png" />
+    <Content Include="global\licensing\RenderingAssets\SC2012\images\lca-print.png" />
+    <Content Include="global\licensing\RenderingAssets\SC2012\images\logo.png" />
+    <Content Include="global\licensing\RenderingAssets\SC2012\images\restart.png" />
+    <Content Include="global\licensing\RenderingAssets\SC2012\js\data.js" />
+    <Content Include="global\licensing\RenderingAssets\SC2012\js\jquery-1.7.1.min.js" />
+    <Content Include="global\licensing\RenderingAssets\SC2012\js\jquery-ui.min.js" />
+    <Content Include="global\licensing\RenderingAssets\SC2012\js\jquery.easing.1.3.js" />
+    <Content Include="global\licensing\RenderingAssets\SC2012\js\jquery.printElement.min.js" />
+    <Content Include="global\licensing\RenderingAssets\SC2012\js\LCA.js" />
+    <Content Include="global\licensing\RenderingAssets\tab.js" />
+    <Content Include="global\licensing\RenderingAssets\table.js" />
+    <Content Include="global\licensing\RenderingAssets\templates\volume-licensing-briefs.css" />
+    <Content Include="global\licensing\RenderingAssets\track_init.js" />
+    <Content Include="global\licensing\RenderingAssets\video-slider.js" />
+    <Content Include="global\licensing\RenderingAssets\Windows8\css\widget.css" />
+    <Content Include="global\licensing\RenderingAssets\Windows8\data\w8-novideo.xml" />
+    <Content Include="global\licensing\RenderingAssets\Windows8\images\btn-back-w8-no-text.png" />
+    <Content Include="global\licensing\RenderingAssets\Windows8\images\btn-return-w8-no-text.png" />
+    <Content Include="global\licensing\RenderingAssets\Windows8\images\lca-email-white.png" />
+    <Content Include="global\licensing\RenderingAssets\Windows8\images\lca-print-white.png" />
+    <Content Include="global\licensing\RenderingAssets\Windows8\images\logo-win8.png" />
+    <Content Include="global\licensing\RenderingAssets\Windows8\images\print-logo.png" />
+    <Content Include="global\licensing\RenderingAssets\Windows8\images\volume-licensing-white.png" />
+    <Content Include="global\licensing\RenderingAssets\Windows8\js\app.js" />
+    <Content Include="global\licensing\RenderingAssets\Windows8\js\dataReader.js" />
+    <Content Include="global\licensing\RenderingAssets\Windows8\js\jquery-1.7.1.min.js" />
+    <Content Include="global\licensing\RenderingAssets\Windows8\js\jquery-ui.min.js" />
+    <Content Include="global\licensing\RenderingAssets\Windows8\js\jquery.easing.1.3.js" />
+    <Content Include="global\licensing\RenderingAssets\Windows8\js\jquery.printElement.min.js" />
+    <Content Include="global\licensing\RenderingAssets\Windows8\js\renderer.js" />
+    <Content Include="global\licensing\RenderingAssets\ws2012\css\widget.css" />
+    <Content Include="global\licensing\RenderingAssets\ws2012\data\ws2012-aug-28.xml" />
+    <Content Include="global\licensing\RenderingAssets\ws2012\images\btn-back-blue-no-text.png" />
+    <Content Include="global\licensing\RenderingAssets\ws2012\images\btn-return-blue-no-text.png" />
+    <Content Include="global\licensing\RenderingAssets\ws2012\images\lca-email-white.png" />
+    <Content Include="global\licensing\RenderingAssets\ws2012\images\lca-print-white.png" />
+    <Content Include="global\licensing\RenderingAssets\ws2012\images\print-logo.png" />
+    <Content Include="global\licensing\RenderingAssets\ws2012\images\volume-licensing-white.png" />
+    <Content Include="global\licensing\RenderingAssets\ws2012\images\winserver-logo.png" />
+    <Content Include="global\licensing\RenderingAssets\ws2012\js\app.js" />
+    <Content Include="global\licensing\RenderingAssets\ws2012\js\dataReader.js" />
+    <Content Include="global\licensing\RenderingAssets\ws2012\js\jquery-1.7.1.min.js" />
+    <Content Include="global\licensing\RenderingAssets\ws2012\js\jquery-ui.min.js" />
+    <Content Include="global\licensing\RenderingAssets\ws2012\js\jquery.easing.1.3.js" />
+    <Content Include="global\licensing\RenderingAssets\ws2012\js\jquery.printElement.min.js" />
+    <Content Include="global\licensing\RenderingAssets\ws2012\js\renderer.js" />
+    <Content Include="global\licensing\RenderingAssets\wt.js" />
+    <Content Include="global\licensing\RichMedia\AboutLicensing\MSSQL2012.xap" />
+    <Content Include="global\licensing\RichMedia\AboutLicensing\Office.xap" />
+    <Content Include="global\licensing\RichMedia\AboutLicensing\windows7.xap" />
+    <Content Include="global\security\PublishingImages\global\Plus_Minus_strip.png" />
+    <Content Include="licensing\about-licensing\client-access-license.aspx" />
+    <Content Include="licensing\about-licensing\document-library.aspx" />
+    <Content Include="licensing\about-licensing\dynamicsax.aspx" />
+    <Content Include="licensing\about-licensing\how-volume-licensing-works.aspx" />
+    <Content Include="licensing\about-licensing\office.aspx" />
+    <Content Include="licensing\about-licensing\office2010.aspx" />
+    <Content Include="licensing\about-licensing\product-licensing.aspx" />
+    <Content Include="licensing\about-licensing\sql2012.aspx" />
+    <Content Include="licensing\about-licensing\SystemCenter2012.aspx" />
+    <Content Include="licensing\about-licensing\volume-licensing-briefs.aspx" />
+    <Content Include="licensing\about-licensing\windows7.aspx" />
+    <Content Include="licensing\about-licensing\windows8.aspx" />
+    <Content Include="licensing\about-licensing\windowsserver2012.aspx" />
+    <Content Include="licensing\default.aspx" />
+    <Content Include="licensing\existing-customers\activation-centers.aspx" />
+    <Content Include="licensing\existing-customers\community.aspx" />
+    <Content Include="licensing\existing-customers\existing-customers.aspx" />
+    <Content Include="licensing\existing-customers\fulfillment.aspx" />
+    <Content Include="licensing\existing-customers\manage-my-agreements.aspx" />
+    <Content Include="licensing\existing-customers\product-activation.aspx" />
+    <Content Include="licensing\how-to-buy\financing.aspx" />
+    <Content Include="licensing\how-to-buy\how-to-buy.aspx" />
+    <Content Include="licensing\learn-more\learn-more.aspx" />
+    <Content Include="licensing\licensing-options\charity.aspx" />
+    <Content Include="licensing\licensing-options\education.aspx" />
+    <Content Include="licensing\licensing-options\enterprise.aspx" />
+    <Content Include="licensing\licensing-options\for-industries.aspx" />
+    <Content Include="licensing\licensing-options\for-organizations.aspx" />
+    <Content Include="licensing\licensing-options\government.aspx" />
+    <Content Include="licensing\licensing-options\health.aspx" />
+    <Content Include="licensing\licensing-options\isv-program.aspx" />
+    <Content Include="licensing\licensing-options\open-license.aspx" />
+    <Content Include="licensing\licensing-options\select.aspx" />
+    <Content Include="licensing\licensing-options\spla-program.aspx" />
+    <Content Include="licensing\licensing-programs\licensing-programs.aspx" />
+    <Content Include="licensing\mla\default.aspx" />
+    <Content Include="licensing\online-services\default.aspx" />
+    <Content Include="licensing\products\products.aspx" />
+    <Content Include="licensing\pur\products.aspx" />
+    <Content Include="licensing\shared\templates\components\oneMscomBlade\oneMscomBlade.css" />
+    <Content Include="licensing\shared\templates\components\oneMscomFooter\onemscomfooter.css" />
+    <Content Include="licensing\shared\templates\components\oneMscomGenericControl\oneMscomListLayout.css" />
+    <Content Include="licensing\shared\templates\components\oneMscomHero\oneMscomHero.css" />
+    <Content Include="licensing\shared\templates\components\oneMscomJsCssLoader\oneMscomJsCssLoader.js" />
+    <Content Include="licensing\shared\templates\components\oneMscomNav\oneMscomNav.css" />
+    <Content Include="licensing\shared\templates\components\onemscomsearch\onemscomsearch.css" />
+    <Content Include="licensing\shared\templates\master\oneMscomMaster\oneMscomComponents.css" />
+    <Content Include="licensing\shared\templates\master\oneMscomMaster\oneMscomMaster.css" />
+    <Content Include="licensing\software-assurance\default.aspx" />
+    <Content Include="licensing\software-assurance\e-learning.aspx" />
+    <Content Include="licensing\training_accreditation.aspx" />
+    <Content Include="Scripts\jquery-1.9.0.min.js" />
+    <Content Include="Scripts\main.js" />
+    <Content Include="Scripts\slides.min.jquery.js" />
+    <Content Include="Styles\main.css" />
+    <Content Include="UserControls\Footer.ascx" />
+    <Content Include="UserControls\Header.ascx" />
+    <Content Include="UserControls\SocialShare.ascx" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="checkserver.aspx.cs">
+      <DependentUpon>checkserver.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="checkserver.aspx.designer.cs">
+      <DependentUpon>checkserver.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Default.aspx.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Default.aspx.designer.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Global.asax.cs">
+      <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="licensing\about-licensing\client-access-license.aspx.cs">
+      <DependentUpon>client-access-license.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="licensing\about-licensing\client-access-license.aspx.designer.cs">
+      <DependentUpon>client-access-license.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="licensing\about-licensing\document-library.aspx.cs">
+      <DependentUpon>document-library.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="licensing\about-licensing\dynamicsax.aspx.cs">
+      <DependentUpon>dynamicsax.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="licensing\about-licensing\how-volume-licensing-works.aspx.cs">
+      <DependentUpon>how-volume-licensing-works.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="licensing\about-licensing\how-volume-licensing-works.aspx.designer.cs">
+      <DependentUpon>how-volume-licensing-works.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="licensing\about-licensing\office.aspx.cs">
+      <DependentUpon>office.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="licensing\about-licensing\office2010.aspx.cs">
+      <DependentUpon>office2010.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="licensing\about-licensing\product-licensing.aspx.cs">
+      <DependentUpon>product-licensing.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="licensing\about-licensing\product-licensing.aspx.designer.cs">
+      <DependentUpon>product-licensing.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="licensing\about-licensing\sql2012.aspx.cs">
+      <DependentUpon>sql2012.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="licensing\about-licensing\SystemCenter2012.aspx.cs">
+      <DependentUpon>SystemCenter2012.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="licensing\about-licensing\volume-licensing-briefs.aspx.cs">
+      <DependentUpon>volume-licensing-briefs.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="licensing\about-licensing\windows7.aspx.cs">
+      <DependentUpon>windows7.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="licensing\about-licensing\windows8.aspx.cs">
+      <DependentUpon>windows8.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="licensing\about-licensing\windowsserver2012.aspx.cs">
+      <DependentUpon>windowsserver2012.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="licensing\default.aspx.cs">
+      <DependentUpon>default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="licensing\default.aspx.designer.cs">
+      <DependentUpon>default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="licensing\existing-customers\activation-centers.aspx.cs">
+      <DependentUpon>activation-centers.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="licensing\existing-customers\community.aspx.cs">
+      <DependentUpon>community.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="licensing\existing-customers\existing-customers.aspx.cs">
+      <DependentUpon>existing-customers.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="licensing\existing-customers\fulfillment.aspx.cs">
+      <DependentUpon>fulfillment.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="licensing\existing-customers\manage-my-agreements.aspx.cs">
+      <DependentUpon>manage-my-agreements.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="licensing\existing-customers\product-activation.aspx.cs">
+      <DependentUpon>product-activation.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="licensing\how-to-buy\financing.aspx.cs">
+      <DependentUpon>financing.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="licensing\how-to-buy\how-to-buy.aspx.cs">
+      <DependentUpon>how-to-buy.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="licensing\learn-more\learn-more.aspx.cs">
+      <DependentUpon>learn-more.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="licensing\licensing-options\charity.aspx.cs">
+      <DependentUpon>charity.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="licensing\licensing-options\education.aspx.cs">
+      <DependentUpon>education.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="licensing\licensing-options\enterprise.aspx.cs">
+      <DependentUpon>enterprise.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="licensing\licensing-options\for-industries.aspx.cs">
+      <DependentUpon>for-industries.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="licensing\licensing-options\for-industries.aspx.designer.cs">
+      <DependentUpon>for-industries.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="licensing\licensing-options\for-organizations.aspx.cs">
+      <DependentUpon>for-organizations.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="licensing\licensing-options\for-organizations.aspx.designer.cs">
+      <DependentUpon>for-organizations.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="licensing\licensing-options\government.aspx.cs">
+      <DependentUpon>government.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="licensing\licensing-options\health.aspx.cs">
+      <DependentUpon>health.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="licensing\licensing-options\isv-program.aspx.cs">
+      <DependentUpon>isv-program.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="licensing\licensing-options\open-license.aspx.cs">
+      <DependentUpon>open-license.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="licensing\licensing-options\select.aspx.cs">
+      <DependentUpon>select.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="licensing\licensing-options\spla-program.aspx.cs">
+      <DependentUpon>spla-program.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="licensing\licensing-programs\licensing-programs.aspx.cs">
+      <DependentUpon>licensing-programs.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="licensing\mla\default.aspx.cs">
+      <DependentUpon>default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="licensing\mla\default.aspx.designer.cs">
+      <DependentUpon>default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="licensing\online-services\default.aspx.cs">
+      <DependentUpon>default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="licensing\products\products.aspx.cs">
+      <DependentUpon>products.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="licensing\pur\products.aspx.cs">
+      <DependentUpon>products.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="licensing\software-assurance\default.aspx.cs">
+      <DependentUpon>default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="licensing\software-assurance\e-learning.aspx.cs">
+      <DependentUpon>e-learning.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="licensing\training_accreditation.aspx.cs">
+      <DependentUpon>training_accreditation.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Site.Master.cs">
+      <DependentUpon>Site.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Site.Master.designer.cs">
+      <DependentUpon>Site.Master</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\Footer.ascx.cs">
+      <DependentUpon>Footer.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UserControls\Footer.ascx.designer.cs">
+      <DependentUpon>Footer.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\Header.ascx.cs">
+      <DependentUpon>Header.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UserControls\Header.ascx.designer.cs">
+      <DependentUpon>Header.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\SocialShare.ascx.cs">
+      <DependentUpon>SocialShare.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UserControls\SocialShare.ascx.designer.cs">
+      <DependentUpon>SocialShare.ascx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="App_Data\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Site.Master" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>False</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>29251</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost/microsoft</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
